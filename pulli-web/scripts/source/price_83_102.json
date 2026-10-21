@@ -1,0 +1,2301 @@
+{
+ "pages": [
+  {
+   "page": 83,
+   "type": "products",
+   "category": "Kadi",
+   "title": "Drawer Kadi",
+   "image": null
+  },
+  {
+   "page": 84,
+   "type": "products",
+   "category": "Kadi",
+   "title": "Drawer Kadi",
+   "image": null
+  },
+  {
+   "page": 85,
+   "type": "divider",
+   "category": "Door Handle",
+   "title": "MAIN DOOR COLLECTION",
+   "image": "p085_1.jpg"
+  },
+  {
+   "page": 86,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 87,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 88,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 89,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 90,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 91,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 92,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 93,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 94,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 95,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 96,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 97,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 98,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 99,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 100,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 101,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  },
+  {
+   "page": 102,
+   "type": "products",
+   "category": "Door Handle",
+   "title": "Door Handle",
+   "image": null
+  }
+ ],
+ "products": [
+  {
+   "code": "Kadi-125",
+   "name": null,
+   "category": "Kadi",
+   "page": 83,
+   "image": "p083_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Small",
+    "Big"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "CP/TT, AB",
+     "values": [
+      179,
+      252
+     ]
+    }
+   ],
+   "notes": "Finish printed as 'CP/TT, AB' sharing one price row. Material line printed once on page (Zinc Alloy)."
+  },
+  {
+   "code": "Kadi-297",
+   "name": null,
+   "category": "Kadi",
+   "page": 83,
+   "image": "p083_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Small",
+    "Big"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "CP/TT",
+     "values": [
+      188,
+      295
+     ]
+    }
+   ],
+   "notes": "Material line printed once on page (Zinc Alloy)."
+  },
+  {
+   "code": "Square Rod Kadi",
+   "name": null,
+   "category": "Kadi",
+   "page": 83,
+   "image": "p083_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "32",
+    "64",
+    "96"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Matt",
+     "values": [
+      178,
+      207,
+      265
+     ]
+    },
+    {
+     "finish": "Glossy",
+     "values": [
+      207,
+      239,
+      294
+     ]
+    }
+   ],
+   "notes": "Material line printed once on page (Zinc Alloy)."
+  },
+  {
+   "code": "Venice Kadi",
+   "name": null,
+   "category": "Kadi",
+   "page": 83,
+   "image": "p083_4.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "CP/Satin",
+     "values": [
+      260
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      339
+     ]
+    },
+    {
+     "finish": "AB/Gold",
+     "values": [
+      339
+     ]
+    },
+    {
+     "finish": "MBN/RG",
+     "values": [
+      339
+     ]
+    }
+   ],
+   "notes": "Material line printed once on page (Zinc Alloy)."
+  },
+  {
+   "code": "Victoria Kadi",
+   "name": null,
+   "category": "Kadi",
+   "page": 83,
+   "image": "p083_5.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Black/TT",
+     "values": [
+      339
+     ]
+    },
+    {
+     "finish": "AB/Gold",
+     "values": [
+      339
+     ]
+    },
+    {
+     "finish": "RG/TT",
+     "values": [
+      339
+     ]
+    },
+    {
+     "finish": "Black/RG",
+     "values": [
+      339
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Spain Kadi",
+   "name": null,
+   "category": "Kadi",
+   "page": 84,
+   "image": "p084_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      278
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      278
+     ]
+    },
+    {
+     "finish": "Green/Black",
+     "values": [
+      278
+     ]
+    },
+    {
+     "finish": "MBN/RG",
+     "values": [
+      278
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      278
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      278
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Alex Kadi",
+   "name": null,
+   "category": "Kadi",
+   "page": 84,
+   "image": "p084_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      245
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      245
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      312
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      312
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "DP-731",
+   "name": null,
+   "category": "Kadi",
+   "page": 84,
+   "image": "p084_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      292,
+      457
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      292,
+      457
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      292,
+      457
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-200",
+   "name": null,
+   "category": "Door Handle",
+   "page": 86,
+   "image": "p086_1.jpg",
+   "material": "SS - 304",
+   "sizes": [
+    "300",
+    "450",
+    "600",
+    "900"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Satin/Teak wood",
+     "values": [
+      2597,
+      3207,
+      3882,
+      5830
+     ]
+    },
+    {
+     "finish": "CP/SS",
+     "values": [
+      2597,
+      3207,
+      3882,
+      5830
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-203",
+   "name": null,
+   "category": "Door Handle",
+   "page": 86,
+   "image": "p086_2.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "300",
+    "450",
+    "600"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      2700,
+      3236,
+      4236
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-225",
+   "name": null,
+   "category": "Door Handle",
+   "page": 86,
+   "image": "p086_3.jpg",
+   "material": "SS - 304",
+   "sizes": [
+    "450",
+    "600",
+    "900",
+    "1200",
+    "1500"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Satin/CP",
+     "values": [
+      4505,
+      5598,
+      8480,
+      11130,
+      14045
+     ]
+    },
+    {
+     "finish": "Satin/Teak",
+     "values": [
+      4505,
+      5598,
+      8480,
+      11130,
+      14045
+     ]
+    },
+    {
+     "finish": "Black/RG",
+     "values": [
+      5009,
+      6095,
+      9275,
+      12190,
+      15635
+     ]
+    },
+    {
+     "finish": "AB/Gold",
+     "values": [
+      5009,
+      6095,
+      9275,
+      12190,
+      15635
+     ]
+    }
+   ],
+   "notes": "Finish labels printed as 'Satin/CP,' and 'Black/RG,' (trailing commas)."
+  },
+  {
+   "code": "GD-236",
+   "name": null,
+   "category": "Door Handle",
+   "page": 87,
+   "image": "p087_1.jpg",
+   "material": "Aluminum",
+   "sizes": [
+    "300",
+    "450",
+    "600",
+    "900",
+    "1200"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      2266,
+      3030,
+      3942,
+      6678,
+      8719
+     ]
+    },
+    {
+     "finish": "SS",
+     "values": [
+      2266,
+      3030,
+      3942,
+      6678,
+      8719
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      2266,
+      3030,
+      3942,
+      6678,
+      8719
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-241",
+   "name": null,
+   "category": "Door Handle",
+   "page": 87,
+   "image": "p087_2.jpg",
+   "material": "Aluminum",
+   "sizes": [
+    "300",
+    "450"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      2942,
+      4118
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      4706,
+      6324
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      4706,
+      6324
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-259",
+   "name": null,
+   "category": "Door Handle",
+   "page": 87,
+   "image": "p087_3.jpg",
+   "material": "SS-304 & Brass",
+   "sizes": [
+    "300",
+    "450",
+    "600"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Grey/Satin",
+     "values": [
+      4588,
+      6471,
+      8178
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      4588,
+      6471,
+      8178
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      6030,
+      8442,
+      10825
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-281",
+   "name": null,
+   "category": "Door Handle",
+   "page": 88,
+   "image": "p088_1.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "300",
+    "450",
+    "600",
+    "900"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      3366,
+      4744,
+      6307,
+      8308
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      4558,
+      6519,
+      8308,
+      11885
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      4558,
+      6519,
+      8308,
+      11885
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-287",
+   "name": null,
+   "category": "Door Handle",
+   "page": 88,
+   "image": "p088_2.jpg",
+   "material": "SS-304 & Wood",
+   "sizes": [
+    "450",
+    "600",
+    "900",
+    "1200"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "SS/Wood",
+     "values": [
+      4929,
+      6334,
+      9911,
+      13303
+     ]
+    },
+    {
+     "finish": "Black/Wood",
+     "values": [
+      4929,
+      6334,
+      9911,
+      13303
+     ]
+    },
+    {
+     "finish": "PVD Gold/ Wood",
+     "values": [
+      5936,
+      7924,
+      12680,
+      16563
+     ]
+    },
+    {
+     "finish": "PVD RG/Wood",
+     "values": [
+      5936,
+      7924,
+      12680,
+      16563
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-292",
+   "name": null,
+   "category": "Door Handle",
+   "page": 88,
+   "image": "p088_3.jpg",
+   "material": "SS-304",
+   "sizes": [
+    "300",
+    "450",
+    "600",
+    "900",
+    "1200"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "SS/CP",
+     "values": [
+      2955,
+      3368,
+      3763,
+      4744,
+      5923
+     ]
+    },
+    {
+     "finish": "Black/PVD Gold",
+     "values": [
+      3366,
+      3949,
+      4757,
+      5910,
+      7473
+     ]
+    },
+    {
+     "finish": "Black/PVD RG",
+     "values": [
+      3366,
+      3949,
+      4757,
+      5910,
+      7473
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-293",
+   "name": null,
+   "category": "Door Handle",
+   "page": 89,
+   "image": "p089_1.jpg",
+   "material": "SS-304 & Wood",
+   "sizes": [
+    "450",
+    "600",
+    "900",
+    "1200"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "SS/Wood",
+     "values": [
+      3546,
+      4550,
+      6731,
+      9116
+     ]
+    },
+    {
+     "finish": "Black/Wood",
+     "values": [
+      3546,
+      4550,
+      6731,
+      9116
+     ]
+    },
+    {
+     "finish": "PVD Gold/Wood",
+     "values": [
+      4550,
+      5936,
+      9885,
+      13065
+     ]
+    },
+    {
+     "finish": "PVD RG/Wood",
+     "values": [
+      4550,
+      5936,
+      9885,
+      13065
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-308",
+   "name": null,
+   "category": "Door Handle",
+   "page": 89,
+   "image": "p089_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "300",
+    "400",
+    "800",
+    "1000"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      8109,
+      8500,
+      10500,
+      11600
+     ]
+    }
+   ],
+   "notes": "Rate Per Pair (not per piece)."
+  },
+  {
+   "code": "GD-310",
+   "name": null,
+   "category": "Door Handle",
+   "page": 89,
+   "image": "p089_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "300",
+    "450",
+    "600"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      3500,
+      5150,
+      7350
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      3800,
+      5620,
+      8050
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      3800,
+      5620,
+      8050
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-312",
+   "name": null,
+   "category": "Door Handle",
+   "page": 90,
+   "image": "p090_1.jpg",
+   "material": "SS",
+   "sizes": [
+    "300(18\")",
+    "450(24\")",
+    "600(36\")",
+    "900(48\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      7840,
+      8421,
+      10608,
+      11970
+     ]
+    },
+    {
+     "finish": "AB/Gold",
+     "values": [
+      8078,
+      8711,
+      10998,
+      12509
+     ]
+    },
+    {
+     "finish": "Gold, RG",
+     "values": [
+      8324,
+      9026,
+      11438,
+      13090
+     ]
+    }
+   ],
+   "notes": "Rate Per Pair. Sizes printed as mm with inch equivalents in brackets."
+  },
+  {
+   "code": "GD-313",
+   "name": null,
+   "category": "Door Handle",
+   "page": 90,
+   "image": "p090_2.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "240mm(18\")",
+    "300mm(24\")",
+    "600mm(36\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black/Gold",
+     "values": [
+      8490,
+      9922,
+      13200
+     ]
+    },
+    {
+     "finish": "SS/RG",
+     "values": [
+      8490,
+      9922,
+      13200
+     ]
+    },
+    {
+     "finish": "RG/TT",
+     "values": [
+      8490,
+      9922,
+      13200
+     ]
+    }
+   ],
+   "notes": "Rate Per Pair. Sizes printed as shown."
+  },
+  {
+   "code": "GD-316",
+   "name": null,
+   "category": "Door Handle",
+   "page": 90,
+   "image": "p090_3.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "450(24\")",
+    "600(36\")",
+    "900(48\")",
+    "1200(60\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black/AB",
+     "values": [
+      6322,
+      7880,
+      9720,
+      11850
+     ]
+    },
+    {
+     "finish": "Full Black",
+     "values": [
+      6322,
+      7880,
+      9720,
+      11850
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-318",
+   "name": null,
+   "category": "Door Handle",
+   "page": 91,
+   "image": "p091_1.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "300(24\")",
+    "450(36\")",
+    "750(48\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      4518,
+      5505,
+      6681
+     ]
+    },
+    {
+     "finish": "DSS",
+     "values": [
+      4518,
+      5505,
+      6681
+     ]
+    }
+   ],
+   "notes": "Rate Per Pcs. Sizes printed as shown."
+  },
+  {
+   "code": "GD-320",
+   "name": null,
+   "category": "Door Handle",
+   "page": 91,
+   "image": "p091_2.jpg",
+   "material": "SS + Brass",
+   "sizes": [
+    "300(16\")",
+    "450(24\")",
+    "900(40\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      4041,
+      6369,
+      11130
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      4041,
+      6369,
+      11130
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      4041,
+      6369,
+      11130
+     ]
+    }
+   ],
+   "notes": "Rate Per Pcs."
+  },
+  {
+   "code": "GD-321",
+   "name": null,
+   "category": "Door Handle",
+   "page": 91,
+   "image": "p091_3.jpg",
+   "material": "SS + Brass",
+   "sizes": [
+    "300 (16\")",
+    "450 (24\")",
+    "900 (40\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      4757,
+      5314,
+      13625
+     ]
+    },
+    {
+     "finish": "Rose Gold",
+     "values": [
+      4757,
+      5314,
+      13625
+     ]
+    }
+   ],
+   "notes": "Rate Per Pcs."
+  },
+  {
+   "code": "GD-Iris-328",
+   "name": null,
+   "category": "Door Handle",
+   "page": 92,
+   "image": "p092_1.jpg",
+   "material": "SS-304",
+   "sizes": [
+    "300",
+    "450"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB/Gold",
+     "values": [
+      3120,
+      4140
+     ]
+    },
+    {
+     "finish": "Black/TT",
+     "values": [
+      3120,
+      4140
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-Flower-330",
+   "name": null,
+   "category": "Door Handle",
+   "page": 92,
+   "image": "p092_2.jpg",
+   "material": "SS-304",
+   "sizes": [
+    "300",
+    "400"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB, Black",
+     "values": [
+      2930,
+      3555
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      4260,
+      5195
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      4260,
+      5195
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-Tycon-332",
+   "name": null,
+   "category": "Door Handle",
+   "page": 92,
+   "image": "p092_3.jpg",
+   "material": "SS-304",
+   "sizes": [
+    "300",
+    "400"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      2450,
+      3315
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      2450,
+      3315
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      3340,
+      4685
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-Hector-334",
+   "name": null,
+   "category": "Door Handle",
+   "page": 93,
+   "image": "p093_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "300",
+    "450"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB/Gold",
+     "values": [
+      3140,
+      4770
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-Horse-335",
+   "name": null,
+   "category": "Door Handle",
+   "page": 93,
+   "image": "p093_2.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "200",
+    "250"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      1537,
+      2504
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      1908,
+      3246
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      1908,
+      3246
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-Lion-337",
+   "name": null,
+   "category": "Door Handle",
+   "page": 93,
+   "image": "p093_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "250"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      5001
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      5839
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      5839
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-Rimzim-340",
+   "name": null,
+   "category": "Door Handle",
+   "page": 94,
+   "image": "p094_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "300",
+    "450"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB, Black",
+     "values": [
+      5459,
+      7791
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      6228,
+      9360
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      6228,
+      9360
+     ]
+    }
+   ],
+   "notes": "Rate Per Pair."
+  },
+  {
+   "code": "GD-Julliet-342",
+   "name": null,
+   "category": "Door Handle",
+   "page": 94,
+   "image": "p094_2.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "300",
+    "400",
+    "600"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Satin/CP",
+     "values": [
+      2985,
+      3279,
+      3869
+     ]
+    },
+    {
+     "finish": "Black/Copper",
+     "values": [
+      2985,
+      3279,
+      3869
+     ]
+    },
+    {
+     "finish": "Black/PVD Gold",
+     "values": [
+      3397,
+      3766,
+      4505
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-V2-345",
+   "name": null,
+   "category": "Door Handle",
+   "page": 94,
+   "image": "p094_3.jpg",
+   "material": "Brass",
+   "sizes": [
+    "300",
+    "450"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      24513,
+      33748
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      29647,
+      40890
+     ]
+    }
+   ],
+   "notes": "Rate Per Pair."
+  },
+  {
+   "code": "GD-V7-346",
+   "name": null,
+   "category": "Door Handle",
+   "page": 95,
+   "image": "p095_1.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "300",
+    "450",
+    "750"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "PVD Black",
+     "values": [
+      15980,
+      21359,
+      33569
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      12853,
+      17119,
+      28090
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      12853,
+      17119,
+      28090
+     ]
+    }
+   ],
+   "notes": "Rate Per Pair."
+  },
+  {
+   "code": "GD-350",
+   "name": null,
+   "category": "Door Handle",
+   "page": 95,
+   "image": "p095_2.jpg",
+   "material": "Zinc Alloy + Aluminium",
+   "sizes": [
+    "300",
+    "450",
+    "600"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      3490,
+      4300,
+      4720
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      3850,
+      4493,
+      4997
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      3850,
+      4493,
+      4997
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-Duck-351",
+   "name": null,
+   "category": "Door Handle",
+   "page": 95,
+   "image": "p095_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "300",
+    "450"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Satin/CP",
+     "values": [
+      6128,
+      8109
+     ]
+    },
+    {
+     "finish": "Black/ PVD Grey",
+     "values": [
+      6426,
+      8348
+     ]
+    },
+    {
+     "finish": "AB/PVD Gold",
+     "values": [
+      7076,
+      9341
+     ]
+    },
+    {
+     "finish": "PVD Gold/Black",
+     "values": [
+      7950,
+      10786
+     ]
+    }
+   ],
+   "notes": "Rate Per Pair."
+  },
+  {
+   "code": "GD-Ducati-352",
+   "name": null,
+   "category": "Door Handle",
+   "page": 96,
+   "image": "p096_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "250mm (18\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      3922
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      3922
+     ]
+    },
+    {
+     "finish": "Matt Gold",
+     "values": [
+      4744
+     ]
+    },
+    {
+     "finish": "Matt RG",
+     "values": [
+      4744
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-Doll-355",
+   "name": null,
+   "category": "Door Handle",
+   "page": 96,
+   "image": "p096_2.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "200",
+    "300",
+    "600"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      2186,
+      2451,
+      3538
+     ]
+    },
+    {
+     "finish": "AB/Gold",
+     "values": [
+      2186,
+      2451,
+      3538
+     ]
+    },
+    {
+     "finish": "RG/Copper",
+     "values": [
+      2186,
+      2451,
+      3538
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-Oris-356",
+   "name": null,
+   "category": "Door Handle",
+   "page": 96,
+   "image": "p096_3.jpg",
+   "material": "Aluminium + SS",
+   "sizes": [
+    "240mm(18\")",
+    "300mm(24\")",
+    "600mm(36\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "DSS/Gold",
+     "values": [
+      4335,
+      4720,
+      5950
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      4335,
+      4720,
+      5950
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      4335,
+      4720,
+      5950
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-Henzar-360",
+   "name": null,
+   "category": "Door Handle",
+   "page": 97,
+   "image": "p097_1.jpg",
+   "material": "SS-304",
+   "sizes": [
+    "350mm (18\")",
+    "450mm (24\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      7685,
+      10401
+     ]
+    },
+    {
+     "finish": "Matt Gold",
+     "values": [
+      7685,
+      10401
+     ]
+    },
+    {
+     "finish": "Matt RG",
+     "values": [
+      7685,
+      10401
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-Royal Rajwadi-372",
+   "name": null,
+   "category": "Door Handle",
+   "page": 97,
+   "image": "p097_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "350"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      4200
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      4200
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      4200
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-521",
+   "name": null,
+   "category": "Door Handle",
+   "page": 97,
+   "image": "p097_3.jpg",
+   "material": "Aluminum",
+   "sizes": [
+    "200",
+    "320",
+    "500"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      1590,
+      2120,
+      3127
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-523",
+   "name": null,
+   "category": "Door Handle",
+   "page": 98,
+   "image": "p098_1.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "200",
+    "320",
+    "500"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      1206,
+      1412,
+      1765
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-530",
+   "name": null,
+   "category": "Door Handle",
+   "page": 98,
+   "image": "p098_2.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "200 (12\")",
+    "300 (16\")",
+    "450 (22\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      994,
+      1272,
+      1656
+     ]
+    },
+    {
+     "finish": "Copper",
+     "values": [
+      994,
+      1272,
+      1656
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-575",
+   "name": null,
+   "category": "Door Handle",
+   "page": 98,
+   "image": "p098_3.jpg",
+   "material": "Aluminium & Wood",
+   "sizes": [
+    "300",
+    "450",
+    "600"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black/Wood",
+     "values": [
+      3154,
+      4452,
+      5433
+     ]
+    },
+    {
+     "finish": "PVD Gold/Wood",
+     "values": [
+      3975,
+      5525,
+      6784
+     ]
+    },
+    {
+     "finish": "PVD RG/Wood",
+     "values": [
+      3975,
+      5525,
+      6784
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-1022",
+   "name": null,
+   "category": "Door Handle",
+   "page": 99,
+   "image": "p099_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "300",
+    "450"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "MBN/RG",
+     "values": [
+      3313,
+      5062
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-1066",
+   "name": null,
+   "category": "Door Handle",
+   "page": 99,
+   "image": "p099_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "300",
+    "450"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      2544,
+      3776
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      2915,
+      4373
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      2915,
+      4373
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-1140",
+   "name": null,
+   "category": "Door Handle",
+   "page": 99,
+   "image": "p099_3.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "300 (18\")",
+    "450 (24\")",
+    "600 (36\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      8876,
+      9936,
+      11963
+     ]
+    },
+    {
+     "finish": "Rainbow",
+     "values": [
+      8876,
+      9936,
+      11963
+     ]
+    }
+   ],
+   "notes": "Rate Per Pair."
+  },
+  {
+   "code": "GD-2012",
+   "name": null,
+   "category": "Door Handle",
+   "page": 100,
+   "image": "p100_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "300",
+    "450"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black/Gold",
+     "values": [
+      4479,
+      5878
+     ]
+    },
+    {
+     "finish": "Black/RG",
+     "values": [
+      4479,
+      5878
+     ]
+    }
+   ],
+   "notes": "Rate Per Pair."
+  },
+  {
+   "code": "GD-2020",
+   "name": null,
+   "category": "Door Handle",
+   "page": 100,
+   "image": "p100_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "224",
+    "288",
+    "352"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      1750,
+      2120,
+      2531
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      1750,
+      2120,
+      2531
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      2531,
+      3016,
+      3624
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      2531,
+      3016,
+      3624
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-4402",
+   "name": null,
+   "category": "Door Handle",
+   "page": 100,
+   "image": "p100_3.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "300",
+    "450",
+    "600"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black/TT",
+     "values": [
+      9100,
+      11000,
+      13500
+     ]
+    },
+    {
+     "finish": "RG/TT",
+     "values": [
+      9100,
+      11000,
+      13500
+     ]
+    }
+   ],
+   "notes": "Rate Per Pair."
+  },
+  {
+   "code": "GD-4403",
+   "name": null,
+   "category": "Door Handle",
+   "page": 101,
+   "image": "p101_1.jpg",
+   "material": "SS-304 & Wood",
+   "sizes": [
+    "300",
+    "450",
+    "600",
+    "900",
+    "1200"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "SS/Wood",
+     "values": [
+      5940,
+      7800,
+      9300,
+      13500,
+      17820
+     ]
+    },
+    {
+     "finish": "Black/Wood",
+     "values": [
+      5940,
+      7800,
+      9300,
+      13500,
+      17820
+     ]
+    }
+   ],
+   "notes": "Rate Per Pair."
+  },
+  {
+   "code": "GD-4404",
+   "name": null,
+   "category": "Door Handle",
+   "page": 101,
+   "image": "p101_2.jpg",
+   "material": "SS-304",
+   "sizes": [
+    "300",
+    "450",
+    "600",
+    "900",
+    "1200"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "PVD Black",
+     "values": [
+      9600,
+      11300,
+      12800,
+      17400,
+      22000
+     ]
+    },
+    {
+     "finish": "Black/PVD Gold",
+     "values": [
+      9600,
+      11300,
+      12800,
+      17400,
+      22000
+     ]
+    },
+    {
+     "finish": "Black/PVD RG",
+     "values": [
+      9600,
+      11300,
+      12800,
+      17400,
+      22000
+     ]
+    }
+   ],
+   "notes": "Rate Per Pair."
+  },
+  {
+   "code": "GD-4405",
+   "name": null,
+   "category": "Door Handle",
+   "page": 101,
+   "image": "p101_3.jpg",
+   "material": "SS-304 & Wood",
+   "sizes": [
+    "300",
+    "450",
+    "600",
+    "900",
+    "1200"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "SS/Wood",
+     "values": [
+      7550,
+      9060,
+      10500,
+      15100,
+      17300
+     ]
+    },
+    {
+     "finish": "Black/Wood",
+     "values": [
+      7550,
+      9060,
+      10500,
+      15100,
+      17300
+     ]
+    },
+    {
+     "finish": "RG/Wood",
+     "values": [
+      9150,
+      11300,
+      13400,
+      19300,
+      21200
+     ]
+    }
+   ],
+   "notes": "Rate Per Pair."
+  },
+  {
+   "code": "GD-Elephant-580",
+   "name": null,
+   "category": "Door Handle",
+   "page": 102,
+   "image": "p102_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "200mm (12\")",
+    "300mm(17\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB/Gold",
+     "values": [
+      5350,
+      15250
+     ]
+    },
+    {
+     "finish": "Black/Gold",
+     "values": [
+      5350,
+      15250
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      6940,
+      18150
+     ]
+    }
+   ],
+   "notes": "Single product shown in 4 photos (p102_1.jpg, p102_2.jpg main gold on door, p102_3.jpg, p102_4.jpg finish variants)."
+  }
+ ]
+}

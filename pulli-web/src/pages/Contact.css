@@ -1,0 +1,157 @@
+.contact-page {
+  padding-block: 48px 96px;
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr;
+  gap: clamp(28px, 5vw, 72px);
+  align-items: start;
+}
+
+.contact-intro {
+  display: grid;
+  gap: 20px;
+}
+
+.contact-intro h1 {
+  font-size: clamp(40px, 5.4vw, 68px);
+  font-weight: 300;
+}
+
+.contact-intro > p {
+  color: var(--muted);
+  font-size: 16px;
+  max-width: 440px;
+}
+
+.contact-card {
+  display: grid;
+  gap: 4px;
+  padding: 22px 24px;
+  border-radius: 18px;
+  background: var(--white);
+  border: 1px solid var(--line);
+}
+
+.contact-card strong {
+  font-family: var(--font-display);
+  font-size: 22px;
+  font-weight: 500;
+  color: var(--navy);
+}
+
+.contact-card span:not(.option-label) {
+  color: var(--muted);
+}
+
+.contact-card a {
+  color: var(--teal-dark);
+  font-weight: 600;
+  margin-top: 6px;
+}
+
+.contact-list {
+  display: grid;
+  gap: 8px;
+}
+
+.contact-list-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact-list-empty {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.contact-list-empty a {
+  color: var(--navy);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.contact-form-wrap {
+  background: var(--white);
+  border-radius: 24px;
+  padding: clamp(24px, 4vw, 44px);
+  box-shadow: var(--shadow);
+}
+
+.contact-form {
+  display: grid;
+  gap: 18px;
+}
+
+.contact-form h2,
+.contact-success h2 {
+  font-size: 30px;
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.form-note {
+  font-size: 13px;
+  color: var(--teal-dark);
+}
+
+.form-error {
+  font-size: 14px;
+  color: #b3261e;
+  background: #fdeceb;
+  padding: 12px 14px;
+  border-radius: 10px;
+}
+
+.form-error a {
+  text-decoration: underline;
+}
+
+.contact-form .btn {
+  justify-self: start;
+  min-width: 200px;
+}
+
+.contact-success {
+  display: grid;
+  gap: 16px;
+  justify-items: start;
+  padding-block: 24px;
+}
+
+.contact-success p {
+  color: var(--muted);
+}
+
+.success-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--teal);
+  color: var(--white);
+  display: grid;
+  place-items: center;
+}
+
+@media (max-width: 900px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .form-row {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-form .btn {
+    width: 100%;
+  }
+}

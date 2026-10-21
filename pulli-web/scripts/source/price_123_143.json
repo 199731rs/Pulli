@@ -1,0 +1,2668 @@
+{
+ "pages": [
+  {
+   "page": 123,
+   "type": "products",
+   "category": "Hook",
+   "title": "Hook",
+   "image": null
+  },
+  {
+   "page": 124,
+   "type": "products",
+   "category": "Hook",
+   "title": "Hook",
+   "image": null
+  },
+  {
+   "page": 125,
+   "type": "products",
+   "category": "Hook",
+   "title": "Hook",
+   "image": null
+  },
+  {
+   "page": 126,
+   "type": "products",
+   "category": "Profile Handle",
+   "title": "Aluminium Profile Handle",
+   "image": null
+  },
+  {
+   "page": 127,
+   "type": "products",
+   "category": "Sofa Leg",
+   "title": "Sofa Leg",
+   "image": null
+  },
+  {
+   "page": 128,
+   "type": "products",
+   "category": "Sofa Leg",
+   "title": "Sofa Leg",
+   "image": null
+  },
+  {
+   "page": 129,
+   "type": "products",
+   "category": "Sofa Leg",
+   "title": "Sofa Leg",
+   "image": null
+  },
+  {
+   "page": 130,
+   "type": "products",
+   "category": "Sofa Leg",
+   "title": "Sofa Leg",
+   "image": null
+  },
+  {
+   "page": 131,
+   "type": "products",
+   "category": "Sofa Leg",
+   "title": "Sofa Leg",
+   "image": null
+  },
+  {
+   "page": 132,
+   "type": "products",
+   "category": "Sofa Leg",
+   "title": "Sofa Leg",
+   "image": null
+  },
+  {
+   "page": 133,
+   "type": "products",
+   "category": "Sofa Leg",
+   "title": "Sofa Leg",
+   "image": null
+  },
+  {
+   "page": 134,
+   "type": "divider",
+   "category": "Door Accessories",
+   "title": "DOOR ACCESSORIES COLLECTION",
+   "image": "p134_1.jpg"
+  },
+  {
+   "page": 135,
+   "type": "products",
+   "category": "Door Accessories",
+   "title": "Door Accessories",
+   "image": null
+  },
+  {
+   "page": 136,
+   "type": "products",
+   "category": "Door Accessories",
+   "title": "Door Accessories",
+   "image": null
+  },
+  {
+   "page": 137,
+   "type": "products",
+   "category": "Door Accessories",
+   "title": "Door Accessories",
+   "image": null
+  },
+  {
+   "page": 138,
+   "type": "products",
+   "category": "Door Accessories",
+   "title": "Door Accessories",
+   "image": null
+  },
+  {
+   "page": 139,
+   "type": "products",
+   "category": "Door Accessories",
+   "title": "Door Accessories",
+   "image": null
+  },
+  {
+   "page": 140,
+   "type": "products",
+   "category": "Door Accessories",
+   "title": "Tower Bolt",
+   "image": null
+  },
+  {
+   "page": 141,
+   "type": "products",
+   "category": "Door Closer",
+   "title": "Door Closer",
+   "image": null
+  },
+  {
+   "page": 142,
+   "type": "other",
+   "category": null,
+   "title": "Packaging photo (back matter)",
+   "image": null
+  },
+  {
+   "page": 143,
+   "type": "other",
+   "category": null,
+   "title": "Back cover (Pulli logo)",
+   "image": null
+  }
+ ],
+ "products": [
+  {
+   "code": "Hook-927",
+   "name": null,
+   "category": "Hook",
+   "page": 123,
+   "image": "p123_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "1 Pin",
+    "4 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "PVD Gold",
+     "values": [
+      225,
+      820,
+      1260
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      225,
+      820,
+      1260
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Hook-930",
+   "name": null,
+   "category": "Hook",
+   "page": 123,
+   "image": "p123_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "4 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "Black/AB",
+     "values": [
+      588,
+      882
+     ]
+    },
+    {
+     "finish": "Black/Choco",
+     "values": [
+      588,
+      882
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Hook-935",
+   "name": null,
+   "category": "Hook",
+   "page": 123,
+   "image": "p123_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "4 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      709,
+      1060
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      709,
+      1060
+     ]
+    },
+    {
+     "finish": "Black/Choco",
+     "values": [
+      709,
+      1060
+     ]
+    },
+    {
+     "finish": "AB/PVD Gold",
+     "values": [
+      822,
+      1232
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Hook-940",
+   "name": null,
+   "category": "Hook",
+   "page": 124,
+   "image": "p124_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "4 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "Full Black",
+     "values": [
+      588,
+      882
+     ]
+    },
+    {
+     "finish": "Choco/RG",
+     "values": [
+      588,
+      882
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      588,
+      882
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Hook-950",
+   "name": null,
+   "category": "Hook",
+   "page": 124,
+   "image": "p124_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "4 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      530,
+      795
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      530,
+      795
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      530,
+      795
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Hook-952",
+   "name": null,
+   "category": "Hook",
+   "page": 124,
+   "image": "p124_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "4 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "SS/Wood",
+     "values": [
+      1034,
+      1484
+     ]
+    },
+    {
+     "finish": "AB/Gold",
+     "values": [
+      1034,
+      1484
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      1034,
+      1484
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Hook-965",
+   "name": null,
+   "category": "Hook",
+   "page": 125,
+   "image": "p125_1.jpg",
+   "material": "SS",
+   "sizes": [
+    "2 Pin",
+    "4 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "Matt/CP",
+     "values": [
+      200,
+      400,
+      600
+     ]
+    },
+    {
+     "finish": "Black/TT",
+     "values": [
+      200,
+      400,
+      600
+     ]
+    },
+    {
+     "finish": "AB/Gold",
+     "values": [
+      250,
+      500,
+      750
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Hook-970",
+   "name": null,
+   "category": "Hook",
+   "page": 125,
+   "image": "p125_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "4 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      500,
+      760
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      775,
+      1230
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      775,
+      1230
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Capsule Hook",
+   "name": null,
+   "category": "Hook",
+   "page": 125,
+   "image": "p125_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "4 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      647,
+      971
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      647,
+      971
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      647,
+      971
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      1025,
+      1532
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      1025,
+      1532
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "PR-02",
+   "name": null,
+   "category": "Profile Handle",
+   "page": 126,
+   "image": "p126_1.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "200",
+    "300",
+    "450",
+    "600",
+    "900"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP, SS, Copper",
+     "values": [
+      255,
+      385,
+      575,
+      765,
+      1350
+     ]
+    }
+   ],
+   "notes": "Single price row shared by finishes CP, SS, Copper. Material inferred from page header 'Aluminium Profile Handle'; no material line printed."
+  },
+  {
+   "code": "PR-04",
+   "name": null,
+   "category": "Profile Handle",
+   "page": 126,
+   "image": "p126_2.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "200",
+    "300",
+    "450",
+    "600",
+    "900"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP, Copper, Black, Brush Gold",
+     "values": [
+      255,
+      385,
+      575,
+      765,
+      1350
+     ]
+    }
+   ],
+   "notes": "Single price row shared by finishes CP, Copper, Black, Brush Gold. Material inferred from page header 'Aluminium Profile Handle'; no material line printed."
+  },
+  {
+   "code": "PR-07",
+   "name": null,
+   "category": "Profile Handle",
+   "page": 126,
+   "image": "p126_3.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "200",
+    "300",
+    "450",
+    "600",
+    "900"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black, Copper",
+     "values": [
+      230,
+      345,
+      518,
+      690,
+      1150
+     ]
+    }
+   ],
+   "notes": "Single price row shared by finishes Black, Copper. Material inferred from page header 'Aluminium Profile Handle'; no material line printed."
+  },
+  {
+   "code": "PR-11",
+   "name": null,
+   "category": "Profile Handle",
+   "page": 126,
+   "image": "p126_4.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "200",
+    "300",
+    "450",
+    "600",
+    "900"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP, Black, Copper",
+     "values": [
+      190,
+      288,
+      430,
+      575,
+      960
+     ]
+    }
+   ],
+   "notes": "Single price row shared by finishes CP, Black, Copper. Material inferred from page header 'Aluminium Profile Handle'; no material line printed."
+  },
+  {
+   "code": "PR-5270",
+   "name": null,
+   "category": "Profile Handle",
+   "page": 126,
+   "image": "p126_5.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "150",
+    "200",
+    "300",
+    "450",
+    "600"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "SS/CP",
+     "values": [
+      424,
+      564,
+      848,
+      1272,
+      1696
+     ]
+    }
+   ],
+   "notes": "Material inferred from page header 'Aluminium Profile Handle'; no material line printed."
+  },
+  {
+   "code": "V-Profile",
+   "name": null,
+   "category": "Profile Handle",
+   "page": 126,
+   "image": "p126_6.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288",
+    "448",
+    "576"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black, Copper, Brush Gold",
+     "values": [
+      132,
+      212,
+      270,
+      325,
+      488,
+      650
+     ]
+    }
+   ],
+   "notes": "Single price row shared by finishes Black, Copper, Brush Gold. Material inferred from page header 'Aluminium Profile Handle'; no material line printed."
+  },
+  {
+   "code": "SL-10",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 127,
+   "image": "p127_1.jpg",
+   "material": null,
+   "sizes": [
+    "2\"",
+    "3\"",
+    "4\"",
+    "6\"",
+    "8\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      170,
+      182,
+      195,
+      220,
+      245
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-12",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 127,
+   "image": "p127_2.jpg",
+   "material": null,
+   "sizes": [
+    "2\"",
+    "3\"",
+    "4\"",
+    "6\"",
+    "8\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      200,
+      225,
+      250,
+      300,
+      350
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-27",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 127,
+   "image": "p127_3.jpg",
+   "material": null,
+   "sizes": [
+    "2\"",
+    "3\"",
+    "4\"",
+    "6\"",
+    "8\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "CP/TT",
+     "values": [
+      170,
+      190,
+      210,
+      255,
+      300
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-29",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 127,
+   "image": "p127_4.jpg",
+   "material": null,
+   "sizes": [
+    "2\"",
+    "3\"",
+    "4\"",
+    "6\"",
+    "8\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "CP/TT",
+     "values": [
+      175,
+      195,
+      215,
+      255,
+      280
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-41",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 127,
+   "image": "p127_5.jpg",
+   "material": null,
+   "sizes": [
+    "2\"",
+    "3\"",
+    "4\"",
+    "6\"",
+    "8\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "CP/TT",
+     "values": [
+      202,
+      230,
+      260,
+      310,
+      370
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-46",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 127,
+   "image": "p127_6.jpg",
+   "material": null,
+   "sizes": [
+    "2\"",
+    "3\"",
+    "4\"",
+    "6\"",
+    "8\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      164,
+      186,
+      205,
+      246,
+      289
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-11",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 128,
+   "image": "p128_1.jpg",
+   "material": null,
+   "sizes": [
+    "3\"",
+    "4\"",
+    "6\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Gold",
+     "values": [
+      255,
+      290,
+      360
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      255,
+      290,
+      360
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-13",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 128,
+   "image": "p128_2.jpg",
+   "material": null,
+   "sizes": [
+    "3\"",
+    "4\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Gold",
+     "values": [
+      372,
+      440
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      372,
+      440
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-44",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 128,
+   "image": "p128_3.jpg",
+   "material": null,
+   "sizes": [
+    "2\"",
+    "3\"",
+    "4\"",
+    "6\"",
+    "8\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      320,
+      348,
+      384,
+      452,
+      532
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      336,
+      360,
+      400,
+      480,
+      null
+     ]
+    },
+    {
+     "finish": "Gold, RG",
+     "values": [
+      360,
+      384,
+      432,
+      528,
+      null
+     ]
+    }
+   ],
+   "notes": "8\" not offered in Black and Gold, RG (printed as ----)."
+  },
+  {
+   "code": "SL-45",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 128,
+   "image": "p128_4.jpg",
+   "material": null,
+   "sizes": [
+    "3\"",
+    "4\"",
+    "6\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      348,
+      386,
+      452
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      360,
+      400,
+      480
+     ]
+    },
+    {
+     "finish": "Gold, RG",
+     "values": [
+      384,
+      432,
+      528
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-55",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 128,
+   "image": "p128_5.jpg",
+   "material": null,
+   "sizes": [
+    "5\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Black, Gold, RG",
+     "values": [
+      452
+     ]
+    }
+   ],
+   "notes": "Single price shared by finishes Black, Gold, RG."
+  },
+  {
+   "code": "T-Leg",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 128,
+   "image": "p128_6.jpg",
+   "material": null,
+   "sizes": [
+    "3\"",
+    "4\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Gold",
+     "values": [
+      400,
+      444
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      400,
+      444
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Cone-Leg",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 129,
+   "image": "p129_1.jpg",
+   "material": null,
+   "sizes": [
+    "2\"",
+    "3\"",
+    "4\"",
+    "6\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Gold",
+     "values": [
+      210,
+      245,
+      280,
+      362
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      210,
+      245,
+      280,
+      362
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "L-Leg",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 129,
+   "image": "p129_2.jpg",
+   "material": null,
+   "sizes": [
+    "5\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "CP, Matt",
+     "values": [
+      275
+     ]
+    },
+    {
+     "finish": "Gold, RG",
+     "values": [
+      400
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "I-Leg",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 129,
+   "image": "p129_3.jpg",
+   "material": null,
+   "sizes": [
+    "5\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "CP, Matt",
+     "values": [
+      175
+     ]
+    },
+    {
+     "finish": "Gold, RG",
+     "values": [
+      235
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Acrylic-Leg",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 129,
+   "image": "p129_4.jpg",
+   "material": null,
+   "sizes": [
+    "3\"",
+    "4\"",
+    "6\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Gold",
+     "values": [
+      530,
+      662,
+      848
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      530,
+      662,
+      848
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Tower-Leg",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 129,
+   "image": "p129_5.jpg",
+   "material": null,
+   "sizes": [
+    "4\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Satin/CP",
+     "values": [
+      600
+     ]
+    },
+    {
+     "finish": "AB/Gold, MBN/RG",
+     "values": [
+      748
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-1001",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 129,
+   "image": "p129_6.jpg",
+   "material": null,
+   "sizes": [
+    "3\"",
+    "4\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "AB, Black",
+     "values": [
+      802,
+      870
+     ]
+    },
+    {
+     "finish": "PVD God, PVD RG",
+     "values": [
+      1120,
+      1212
+     ]
+    }
+   ],
+   "notes": "Finish printed as 'PVD God' (likely PVD Gold)."
+  },
+  {
+   "code": "SL-1005",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 130,
+   "image": "p130_1.jpg",
+   "material": "SS",
+   "sizes": [
+    "3\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      620
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      620
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      888
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      888
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-DTS 55",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 130,
+   "image": "p130_2.jpg",
+   "material": "SS + Wood",
+   "sizes": [
+    "3\"",
+    "4\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Black/Wood",
+     "values": [
+      644,
+      808
+     ]
+    },
+    {
+     "finish": "Gold/Wood",
+     "values": [
+      710,
+      882
+     ]
+    },
+    {
+     "finish": "RG/Wood",
+     "values": [
+      710,
+      882
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Pencil Leg",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 130,
+   "image": "p130_3.jpg",
+   "material": "SS",
+   "sizes": [
+    "4\"",
+    "6\"",
+    "8\"",
+    "12\"",
+    "16\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "AB, Black",
+     "values": [
+      300,
+      450,
+      600,
+      900,
+      1200
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      300,
+      450,
+      600,
+      900,
+      1200
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      300,
+      450,
+      600,
+      900,
+      1200
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-11001",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 131,
+   "image": "p131_1.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "4\"",
+    "6\"",
+    "8\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "AB/Gold",
+     "values": [
+      850,
+      1050,
+      1210
+     ]
+    },
+    {
+     "finish": "Matt Gold",
+     "values": [
+      850,
+      1050,
+      1210
+     ]
+    },
+    {
+     "finish": "Matt RG",
+     "values": [
+      850,
+      1050,
+      1210
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-11004",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 131,
+   "image": "p131_2.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "3\"",
+    "4\"",
+    "6\"",
+    "8\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Black/Gold",
+     "values": [
+      500,
+      640,
+      735,
+      935
+     ]
+    },
+    {
+     "finish": "Matt Gold",
+     "values": [
+      500,
+      640,
+      735,
+      935
+     ]
+    },
+    {
+     "finish": "Matt RG",
+     "values": [
+      500,
+      640,
+      735,
+      935
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-1627",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 131,
+   "image": "p131_3.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "3\"",
+    "4\"",
+    "6\"",
+    "8\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "PVD Black",
+     "values": [
+      739,
+      769,
+      888,
+      994
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      739,
+      769,
+      888,
+      994
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      739,
+      769,
+      888,
+      994
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-1628",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 132,
+   "image": "p132_1.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "3\"",
+    "4\"",
+    "6\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      300,
+      355,
+      444
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      300,
+      355,
+      444
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      300,
+      355,
+      444
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-1633",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 132,
+   "image": "p132_2.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "3\"",
+    "4\"",
+    "6\"",
+    "8\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "PVD Black",
+     "values": [
+      824,
+      938,
+      1166,
+      1399
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      824,
+      938,
+      1166,
+      1399
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      824,
+      938,
+      1166,
+      1399
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-1635",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 132,
+   "image": "p132_3.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "3\"",
+    "4\"",
+    "6\"",
+    "8\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "PVD Black",
+     "values": [
+      763,
+      815,
+      967,
+      1120
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      763,
+      815,
+      967,
+      1120
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      763,
+      815,
+      967,
+      1120
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-72",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 133,
+   "image": "p133_1.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "3\"",
+    "4\"",
+    "12\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      570,
+      649,
+      1696
+     ]
+    },
+    {
+     "finish": "Copper",
+     "values": [
+      570,
+      649,
+      1696
+     ]
+    },
+    {
+     "finish": "Iron Grey",
+     "values": [
+      570,
+      649,
+      1696
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "SL-1609",
+   "name": null,
+   "category": "Sofa Leg",
+   "page": 133,
+   "image": "p133_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "4\"",
+    "6\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "AB Matt/Gold",
+     "values": [
+      1088,
+      1290
+     ]
+    },
+    {
+     "finish": "Z-Black",
+     "values": [
+      1188,
+      1390
+     ]
+    },
+    {
+     "finish": "Gold Matt/Gold",
+     "values": [
+      1260,
+      1525
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      1260,
+      1525
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "DS-Royal",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 135,
+   "image": "p135_1.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      400
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      425
+     ]
+    },
+    {
+     "finish": "MBN, Choco, Black",
+     "values": [
+      440
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "DS-Hex",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 135,
+   "image": "p135_2.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS, AB",
+     "values": [
+      425
+     ]
+    },
+    {
+     "finish": "Gold, Choco, Black",
+     "values": [
+      460
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "Foot Stopper",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 135,
+   "image": "p135_3.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      720
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      780
+     ]
+    },
+    {
+     "finish": "MBN",
+     "values": [
+      780
+     ]
+    },
+    {
+     "finish": "Choco",
+     "values": [
+      780
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "Alfa Stopper",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 135,
+   "image": "p135_4.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS, AB, Black",
+     "values": [
+      440
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      520
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "DS-Jumbo",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 135,
+   "image": "p135_5.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      400
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      425
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "Auto Stopper",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 135,
+   "image": "p135_6.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      520
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      550
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "DMG-Avis",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 136,
+   "image": "p136_1.jpg",
+   "material": null,
+   "sizes": [
+    "70"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "SS, AB, Gold, RG, MBN, Black",
+     "values": [
+      null
+     ]
+    }
+   ],
+   "notes": "Only Finish and Size (70mm) printed; no price shown."
+  },
+  {
+   "code": "DMG-Pyramid",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 136,
+   "image": "p136_2.jpg",
+   "material": null,
+   "sizes": [
+    "70"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "SS, AB, Gold, RG, Black",
+     "values": [
+      null
+     ]
+    }
+   ],
+   "notes": "Only Finish and Size (70mm) printed; no price shown."
+  },
+  {
+   "code": "Floor Magnet",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 136,
+   "image": "p136_3.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS, AB",
+     "values": [
+      480
+     ]
+    },
+    {
+     "finish": "RG, Black",
+     "values": [
+      512
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "Doom Magnet",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 136,
+   "image": "p136_4.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS, AB, Black",
+     "values": [
+      350
+     ]
+    },
+    {
+     "finish": "RG, Gold",
+     "values": [
+      400
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row). Name printed as 'Doom Magnet'."
+  },
+  {
+   "code": "Soft Touch Stopper",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 136,
+   "image": "p136_5.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS, AB, Black",
+     "values": [
+      1380
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      1500
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "DMG-007",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 136,
+   "image": "p136_6.jpg",
+   "material": null,
+   "sizes": [
+    "Small",
+    "Big"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS, AB, Black",
+     "values": [
+      540,
+      600
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      600,
+      680
+     ]
+    }
+   ],
+   "notes": "Sizes Small/Big."
+  },
+  {
+   "code": "DSL-138",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 137,
+   "image": "p137_1.jpg",
+   "material": "SS",
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      120
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      145
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      145
+     ]
+    },
+    {
+     "finish": "RG, Gold",
+     "values": [
+      168
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "DSL-1002",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 137,
+   "image": "p137_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS, AB",
+     "values": [
+      390
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      490
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "DSL-Rajwadi",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 137,
+   "image": "p137_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS, AB, RG",
+     "values": [
+      398
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "DSL-Star",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 137,
+   "image": "p137_4.jpg",
+   "material": "SS",
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      217
+     ]
+    },
+    {
+     "finish": "Antique",
+     "values": [
+      265
+     ]
+    },
+    {
+     "finish": "PVD Black",
+     "values": [
+      345
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      305
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row). Header row labelled 'Size' but contains finishes."
+  },
+  {
+   "code": "Baby Latch-002",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 138,
+   "image": "p138_1.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS, AB",
+     "values": [
+      480
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      505
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      600
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "Baby Latch-009",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 138,
+   "image": "p138_2.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      292
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      292
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      337
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      374
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "Baby Latch-006",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 138,
+   "image": "p138_3.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Satin, AB, Black",
+     "values": [
+      520
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      720
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "Aluminium Latch-4\"",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 138,
+   "image": "p138_4.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      312
+     ]
+    },
+    {
+     "finish": "AB, Black",
+     "values": [
+      350
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "Door Guard",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 138,
+   "image": "p138_5.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      500
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      515
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "Brass Door Eye",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 138,
+   "image": "p138_6.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      350
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      400
+     ]
+    },
+    {
+     "finish": "Black, Gold, RG",
+     "values": [
+      450
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "Round Door Buffer",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 139,
+   "image": "p139_1.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      145
+     ]
+    },
+    {
+     "finish": "AB, Black",
+     "values": [
+      155
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      200
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "Cable Manager",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 139,
+   "image": "p139_2.jpg",
+   "material": null,
+   "sizes": [
+    "50",
+    "65"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Matt",
+     "values": [
+      200,
+      225
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      225,
+      265
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      300,
+      350
+     ]
+    }
+   ],
+   "notes": "Printed with finishes as columns and sizes as rows; transposed."
+  },
+  {
+   "code": "Key Hole-570",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 139,
+   "image": "p139_3.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Satin, Black, AB, CP",
+     "values": [
+      60
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      87
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "Key Hole-705",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 139,
+   "image": "p139_4.jpg",
+   "material": null,
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Satin, Black, AB",
+     "values": [
+      53
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      82
+     ]
+    }
+   ],
+   "notes": "No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "Max Aldrop",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 139,
+   "image": "p139_5.jpg",
+   "material": "SS",
+   "sizes": [
+    "8\"",
+    "12\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      1560,
+      1750
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      1750,
+      2110
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      1750,
+      2110
+     ]
+    }
+   ],
+   "notes": "Packing: 1 Pcs. Printed with finishes as columns and sizes as rows; transposed."
+  },
+  {
+   "code": "Xylo Tower Bolt",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 140,
+   "image": "p140_1.jpg",
+   "material": "Aluminium + SS Rod",
+   "sizes": [
+    "4\"",
+    "6\"",
+    "8\"",
+    "12\"",
+    "18\"",
+    "24\"",
+    "36\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "SS, AB, Black, Gold, RG",
+     "values": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    }
+   ],
+   "notes": "Page header 'Tower Bolt'. Only finishes and sizes printed; no prices shown."
+  },
+  {
+   "code": "Ozone Tower Bolt",
+   "name": null,
+   "category": "Door Accessories",
+   "page": 140,
+   "image": "p140_2.jpg",
+   "material": "Aluminium + SS Rod",
+   "sizes": [
+    "4\"",
+    "6\"",
+    "8\"",
+    "12\"",
+    "18\"",
+    "24\"",
+    "36\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "AB, Matt RG",
+     "values": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    }
+   ],
+   "notes": "Page header 'Tower Bolt'. Only finishes and sizes printed; no prices shown."
+  },
+  {
+   "code": "DOOR CLOSER (Pelmet Arm)",
+   "name": null,
+   "category": "Door Closer",
+   "page": 141,
+   "image": "p141_1.jpg",
+   "material": "Aluminum",
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Silver",
+     "values": [
+      2400
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      2640
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      3240
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      3900
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      3900
+     ]
+    }
+   ],
+   "notes": "Packing: 1 Pcs. No size printed; one price per finish group (Finish row then price row)."
+  },
+  {
+   "code": "DELUXE DOOR CLOSER",
+   "name": null,
+   "category": "Door Closer",
+   "page": 141,
+   "image": "p141_2.jpg",
+   "material": "Aluminum",
+   "sizes": [
+    null
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Silver",
+     "values": [
+      1656
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      1800
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      2400
+     ]
+    },
+    {
+     "finish": "Glossy Gold",
+     "values": [
+      2700
+     ]
+    },
+    {
+     "finish": "Glossy RG",
+     "values": [
+      2700
+     ]
+    }
+   ],
+   "notes": "Packing: 1 Pcs. No size printed; one price per finish group (Finish row then price row)."
+  }
+ ]
+}

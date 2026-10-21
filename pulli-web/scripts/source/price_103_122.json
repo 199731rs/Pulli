@@ -1,0 +1,1862 @@
+{
+ "pages": [
+  {
+   "page": 103,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 104,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 105,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 106,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 107,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 108,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 109,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 110,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 111,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 112,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 113,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 114,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 115,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 116,
+   "type": "products",
+   "category": "Door Handle",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 117,
+   "type": "products",
+   "category": "Door Knob",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 118,
+   "type": "divider",
+   "category": "Hook",
+   "title": "KHUTI COLLECTION",
+   "image": "p118_1.jpg"
+  },
+  {
+   "page": 119,
+   "type": "products",
+   "category": "Hook",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 120,
+   "type": "products",
+   "category": "Hook",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 121,
+   "type": "products",
+   "category": "Hook",
+   "title": null,
+   "image": null
+  },
+  {
+   "page": 122,
+   "type": "products",
+   "category": "Hook",
+   "title": null,
+   "image": null
+  }
+ ],
+ "products": [
+  {
+   "code": "DH-Alex Rajwadi-101",
+   "name": null,
+   "category": "Door Handle",
+   "page": 103,
+   "image": "p103_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "18"
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      4625
+     ]
+    },
+    {
+     "finish": "Matt Gold",
+     "values": [
+      5500
+     ]
+    },
+    {
+     "finish": "Matt RG",
+     "values": [
+      5500
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "DH-Rajwadi-102",
+   "name": null,
+   "category": "Door Handle",
+   "page": 103,
+   "image": "p103_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "8",
+    "12",
+    "16",
+    "22",
+    "33"
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      1545,
+      1998,
+      3480,
+      5660,
+      6624
+     ]
+    },
+    {
+     "finish": "Satin/CP",
+     "values": [
+      1545,
+      1998,
+      3480,
+      5660,
+      6624
+     ]
+    },
+    {
+     "finish": "Choco/RG",
+     "values": [
+      1723,
+      2184,
+      3880,
+      null,
+      null
+     ]
+    }
+   ],
+   "notes": "Choco/RG not available in 22\" and 33\" (printed ----)."
+  },
+  {
+   "code": "DH-Spot Rajwadi-104",
+   "name": null,
+   "category": "Door Handle",
+   "page": 103,
+   "image": "p103_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "12",
+    "18",
+    "22"
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      2130,
+      2660,
+      3100
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "DH-Lotus Rajwadi-105",
+   "name": null,
+   "category": "Door Handle",
+   "page": 104,
+   "image": "p104_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "12",
+    "18",
+    "24"
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      2703,
+      3164,
+      3624
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      3279,
+      3743,
+      4207
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "DH-153",
+   "name": null,
+   "category": "Door Handle",
+   "page": 104,
+   "image": "p104_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "160",
+    "224",
+    "320",
+    "450"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Satin/CP",
+     "values": [
+      1412,
+      1961,
+      2368,
+      3354
+     ]
+    },
+    {
+     "finish": "Choco/RG",
+     "values": [
+      1412,
+      1961,
+      2368,
+      3354
+     ]
+    }
+   ],
+   "notes": "Size unit not printed; assumed mm."
+  },
+  {
+   "code": "DH-370",
+   "name": null,
+   "category": "Door Handle",
+   "page": 104,
+   "image": "p104_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "8",
+    "12"
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "SS, AB, Black",
+     "values": [
+      870,
+      1180
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      970,
+      1380
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      970,
+      1380
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "DH-514",
+   "name": null,
+   "category": "Door Handle",
+   "page": 105,
+   "image": "p105_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "200",
+    "300"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Satin/Wenge",
+     "values": [
+      1027,
+      1312
+     ]
+    },
+    {
+     "finish": "AB/Gold",
+     "values": [
+      1140,
+      1411
+     ]
+    },
+    {
+     "finish": "MBN/RG",
+     "values": [
+      1140,
+      1411
+     ]
+    }
+   ],
+   "notes": "Size unit not printed; assumed mm."
+  },
+  {
+   "code": "DH-545",
+   "name": null,
+   "category": "Door Handle",
+   "page": 105,
+   "image": "p105_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "192",
+    "256"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Choco",
+     "values": [
+      1357,
+      1709
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      1357,
+      1709
+     ]
+    },
+    {
+     "finish": "SS Matt",
+     "values": [
+      1357,
+      1709
+     ]
+    }
+   ],
+   "notes": "Size unit not printed; assumed mm."
+  },
+  {
+   "code": "DH-Lion Kada",
+   "name": null,
+   "category": "Door Handle",
+   "page": 105,
+   "image": "p105_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      610
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "DH-208",
+   "name": null,
+   "category": "Door Handle",
+   "page": 106,
+   "image": "p106_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "160",
+    "224"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/SS",
+     "values": [
+      504,
+      725
+     ]
+    }
+   ],
+   "notes": "Code partly covered by annotation number; DH prefix inferred."
+  },
+  {
+   "code": "DH-209",
+   "name": null,
+   "category": "Door Handle",
+   "page": 106,
+   "image": "p106_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "160",
+    "224"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/SS",
+     "values": [
+      565,
+      834
+     ]
+    }
+   ],
+   "notes": "Code partly covered by annotation number; DH prefix inferred."
+  },
+  {
+   "code": "DH-210",
+   "name": null,
+   "category": "Door Handle",
+   "page": 106,
+   "image": "p106_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "160",
+    "224"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/SS",
+     "values": [
+      620,
+      888
+     ]
+    }
+   ],
+   "notes": "Code partly covered by annotation number; DH prefix inferred."
+  },
+  {
+   "code": "DH-213",
+   "name": null,
+   "category": "Door Handle",
+   "page": 106,
+   "image": "p106_4.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "160",
+    "224"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/SS",
+     "values": [
+      650,
+      875
+     ]
+    }
+   ],
+   "notes": "Code partly covered by annotation number; DH prefix inferred."
+  },
+  {
+   "code": "DH-222",
+   "name": null,
+   "category": "Door Handle",
+   "page": 106,
+   "image": "p106_5.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "160",
+    "224"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Satin",
+     "values": [
+      782,
+      824
+     ]
+    }
+   ],
+   "notes": "Code partly covered by annotation number; DH prefix inferred."
+  },
+  {
+   "code": "DH-223",
+   "name": null,
+   "category": "Door Handle",
+   "page": 106,
+   "image": "p106_6.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "160",
+    "224"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/SS",
+     "values": [
+      663,
+      824
+     ]
+    }
+   ],
+   "notes": "Code partly covered by annotation number; DH prefix inferred."
+  },
+  {
+   "code": "DH-237",
+   "name": null,
+   "category": "Door Handle",
+   "page": 106,
+   "image": "p106_7.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "160",
+    "224"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Satin",
+     "values": [
+      620,
+      820
+     ]
+    }
+   ],
+   "notes": "Code partly covered by annotation number; DH prefix inferred."
+  },
+  {
+   "code": "DH-5011",
+   "name": null,
+   "category": "Door Handle",
+   "page": 106,
+   "image": "p106_8.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "300",
+    "450"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB/Black",
+     "values": [
+      2059,
+      2612
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "GD-264",
+   "name": null,
+   "category": "Door Handle",
+   "page": 107,
+   "image": "p107_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB/Black, Full Black, RG, CP/SS, NB/WhiteB",
+     "values": [
+      1034,
+      3236
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-277",
+   "name": null,
+   "category": "Door Handle",
+   "page": 107,
+   "image": "p107_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "160"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB/Gold",
+     "values": [
+      3843
+     ]
+    },
+    {
+     "finish": "Black/TT",
+     "values": [
+      4041
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      5830
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-4011",
+   "name": null,
+   "category": "Door Handle",
+   "page": 108,
+   "image": "p108_1.jpg",
+   "material": "SS",
+   "sizes": [
+    "6",
+    "8",
+    "10"
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      6360,
+      9250,
+      12940
+     ]
+    },
+    {
+     "finish": "Black/Gold",
+     "values": [
+      6360,
+      9250,
+      12940
+     ]
+    },
+    {
+     "finish": "Black/RG",
+     "values": [
+      6360,
+      9250,
+      12940
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-4013",
+   "name": null,
+   "category": "Door Handle",
+   "page": 108,
+   "image": "p108_2.jpg",
+   "material": "SS",
+   "sizes": [
+    "6",
+    "8",
+    "10"
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      5880,
+      8110,
+      11520
+     ]
+    },
+    {
+     "finish": "AB/Gold",
+     "values": [
+      5880,
+      8110,
+      11520
+     ]
+    },
+    {
+     "finish": "Black/RG",
+     "values": [
+      5880,
+      8110,
+      11520
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-Lily-4015",
+   "name": null,
+   "category": "Door Handle",
+   "page": 109,
+   "image": "p109_1.jpg",
+   "material": "SS-304",
+   "sizes": [
+    "6",
+    "8",
+    "10",
+    "12"
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      4220,
+      6680,
+      7800,
+      11100
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      4850,
+      7500,
+      9200,
+      12500
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-Orchid-4016",
+   "name": null,
+   "category": "Door Handle",
+   "page": 109,
+   "image": "p109_2.jpg",
+   "material": "SS-304",
+   "sizes": [
+    "6",
+    "8",
+    "10"
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      5100,
+      6880,
+      12500
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-Tree-4017",
+   "name": null,
+   "category": "Door Handle",
+   "page": 110,
+   "image": "p110_1.jpg",
+   "material": "SS",
+   "sizes": [
+    "160"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Antique",
+     "values": [
+      3720
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      3720
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      4880
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-Varsache-4021",
+   "name": null,
+   "category": "Door Handle",
+   "page": 110,
+   "image": "p110_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB, MBN",
+     "values": [
+      1552,
+      3820
+     ]
+    },
+    {
+     "finish": "Gold, RG",
+     "values": [
+      1720,
+      4620
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-Tulip-4022",
+   "name": null,
+   "category": "Door Handle",
+   "page": 111,
+   "image": "p111_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "160"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB, Z-Black",
+     "values": [
+      4346
+     ]
+    },
+    {
+     "finish": "PVD Gold Matt, PVD RG Matt",
+     "values": [
+      4982
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-Morris-4025",
+   "name": null,
+   "category": "Door Handle",
+   "page": 111,
+   "image": "p111_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Satin/Grey",
+     "values": [
+      2650
+     ]
+    },
+    {
+     "finish": "AB/Gold, Full Black, Wenge/RG",
+     "values": [
+      3286
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-Zinia-4027",
+   "name": null,
+   "category": "Door Handle",
+   "page": 112,
+   "image": "p112_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "160"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black, AB, RG, MBN",
+     "values": [
+      3869
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-Mari Gold-4028",
+   "name": null,
+   "category": "Door Handle",
+   "page": 112,
+   "image": "p112_2.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "160"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black, AB",
+     "values": [
+      5585
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-4030",
+   "name": null,
+   "category": "Door Handle",
+   "page": 113,
+   "image": "p113_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB/Black",
+     "values": [
+      1680,
+      2680
+     ]
+    },
+    {
+     "finish": "Matt Gold, Matt RG",
+     "values": [
+      1990,
+      3310
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-5019",
+   "name": null,
+   "category": "Door Handle",
+   "page": 113,
+   "image": "p113_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "160"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      3700
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      4150
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-5020",
+   "name": null,
+   "category": "Door Handle",
+   "page": 114,
+   "image": "p114_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "100"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      3100
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      4000
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-5035",
+   "name": null,
+   "category": "Door Handle",
+   "page": 114,
+   "image": "p114_2.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "160"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black, DSS, Copper",
+     "values": [
+      5274
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-5052",
+   "name": null,
+   "category": "Door Handle",
+   "page": 115,
+   "image": "p115_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "160",
+    "224"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      4050,
+      8700
+     ]
+    },
+    {
+     "finish": "PVD Gold, PVD RG",
+     "values": [
+      5650,
+      13400
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-5555",
+   "name": null,
+   "category": "Door Handle",
+   "page": 115,
+   "image": "p115_2.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "100",
+    "250"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB/Gold",
+     "values": [
+      4125,
+      12375
+     ]
+    },
+    {
+     "finish": "Black/Black, RG/RG",
+     "values": [
+      3812,
+      11525
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GD-5557",
+   "name": null,
+   "category": "Door Handle",
+   "page": 116,
+   "image": "p116_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "100",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black/Black",
+     "values": [
+      5120,
+      13900
+     ]
+    },
+    {
+     "finish": "Black/Gold",
+     "values": [
+      5860,
+      14900
+     ]
+    }
+   ],
+   "notes": "Rate per pair."
+  },
+  {
+   "code": "GDK-Era-5030",
+   "name": null,
+   "category": "Door Knob",
+   "page": 117,
+   "image": "p117_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      2067
+     ]
+    },
+    {
+     "finish": "Antique",
+     "values": [
+      2067
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      2359
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      2359
+     ]
+    }
+   ],
+   "notes": "Page header reads 'Door Knob' (printed page 115, within Door Handle index range)."
+  },
+  {
+   "code": "GDK-Taj-5040",
+   "name": null,
+   "category": "Door Knob",
+   "page": 117,
+   "image": "p117_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Satin",
+     "values": [
+      1325
+     ]
+    },
+    {
+     "finish": "Antique",
+     "values": [
+      1325
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      1325
+     ]
+    }
+   ],
+   "notes": "Page header reads 'Door Knob' (printed page 115, within Door Handle index range)."
+  },
+  {
+   "code": "GDK-J Round-5050",
+   "name": null,
+   "category": "Door Knob",
+   "page": 117,
+   "image": "p117_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Antique",
+     "values": [
+      1271
+     ]
+    },
+    {
+     "finish": "Copper Antique",
+     "values": [
+      1271
+     ]
+    }
+   ],
+   "notes": "Page header reads 'Door Knob' (printed page 115, within Door Handle index range)."
+  },
+  {
+   "code": "Hook-912",
+   "name": null,
+   "category": "Hook",
+   "page": 119,
+   "image": "p119_1.jpg",
+   "material": null,
+   "sizes": [
+    "4 Pin",
+    "5 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "SS Brush",
+     "values": [
+      800,
+      1000,
+      1200
+     ]
+    }
+   ],
+   "notes": "Material not printed."
+  },
+  {
+   "code": "Hook-915",
+   "name": null,
+   "category": "Hook",
+   "page": 119,
+   "image": "p119_2.jpg",
+   "material": null,
+   "sizes": [
+    "4 Pin",
+    "5 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      900,
+      1125,
+      1350
+     ]
+    },
+    {
+     "finish": "SS Brush",
+     "values": [
+      1000,
+      1250,
+      1500
+     ]
+    }
+   ],
+   "notes": "Material not printed."
+  },
+  {
+   "code": "Hook-916",
+   "name": null,
+   "category": "Hook",
+   "page": 119,
+   "image": "p119_3.jpg",
+   "material": null,
+   "sizes": [
+    "4 Pin",
+    "5 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      677,
+      839,
+      1000
+     ]
+    }
+   ],
+   "notes": "Material not printed."
+  },
+  {
+   "code": "Hook-920",
+   "name": null,
+   "category": "Hook",
+   "page": 119,
+   "image": "p119_4.jpg",
+   "material": null,
+   "sizes": [
+    "4 Pin",
+    "5 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      650,
+      812,
+      975
+     ]
+    },
+    {
+     "finish": "SS Brush",
+     "values": [
+      800,
+      1000,
+      1200
+     ]
+    }
+   ],
+   "notes": "Material not printed."
+  },
+  {
+   "code": "Hook-921",
+   "name": null,
+   "category": "Hook",
+   "page": 119,
+   "image": "p119_5.jpg",
+   "material": null,
+   "sizes": [
+    "4 Pin",
+    "5 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "SS Brush",
+     "values": [
+      820,
+      1025,
+      1230
+     ]
+    }
+   ],
+   "notes": "Material not printed."
+  },
+  {
+   "code": "Hook-924",
+   "name": null,
+   "category": "Hook",
+   "page": 119,
+   "image": "p119_6.jpg",
+   "material": null,
+   "sizes": [
+    "4 Pin",
+    "5 Pin",
+    "6 Pin"
+   ],
+   "sizeUnit": "pin",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      900,
+      1125,
+      1350
+     ]
+    },
+    {
+     "finish": "Choco,MBN",
+     "values": [
+      1000,
+      1250,
+      1500
+     ]
+    }
+   ],
+   "notes": "Material not printed. Finish column printed as 'AB,' over 'Choco,MBN'; split assumed to follow the two price rows."
+  },
+  {
+   "code": "Hook-910",
+   "name": null,
+   "category": "Hook",
+   "page": 120,
+   "image": "p120_1.jpg",
+   "material": null,
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Choco/RG, Gold/Wenge, AB/Black",
+     "values": [
+      278
+     ]
+    }
+   ],
+   "notes": "Material not printed. Finish row then single price; no size given."
+  },
+  {
+   "code": "Hook-918",
+   "name": null,
+   "category": "Hook",
+   "page": 120,
+   "image": "p120_2.jpg",
+   "material": null,
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Satin, AB",
+     "values": [
+      178
+     ]
+    }
+   ],
+   "notes": "Material not printed. Finish row then single price; no size given."
+  },
+  {
+   "code": "Hook-919",
+   "name": null,
+   "category": "Hook",
+   "page": 120,
+   "image": "p120_3.jpg",
+   "material": null,
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Satin, AB",
+     "values": [
+      135
+     ]
+    }
+   ],
+   "notes": "Material not printed. Finish row then single price; no size given."
+  },
+  {
+   "code": "Hook-928",
+   "name": null,
+   "category": "Hook",
+   "page": 120,
+   "image": "p120_4.jpg",
+   "material": null,
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Satin/CP",
+     "values": [
+      200
+     ]
+    },
+    {
+     "finish": "AB/Gold",
+     "values": [
+      230
+     ]
+    },
+    {
+     "finish": "MBN/RG",
+     "values": [
+      255
+     ]
+    }
+   ],
+   "notes": "Material not printed. Finish row then single price; no size given."
+  },
+  {
+   "code": "Titali Hook",
+   "name": null,
+   "category": "Hook",
+   "page": 120,
+   "image": "p120_5.jpg",
+   "material": null,
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Black/AB",
+     "values": [
+      413
+     ]
+    },
+    {
+     "finish": "Black/PVD Gold, Black/PVD RG",
+     "values": [
+      486
+     ]
+    }
+   ],
+   "notes": "Material not printed. Finish row then single price; no size given."
+  },
+  {
+   "code": "Butterfly Hook",
+   "name": null,
+   "category": "Hook",
+   "page": 120,
+   "image": "p120_6.jpg",
+   "material": null,
+   "sizes": [
+    "Small",
+    "Big"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "CP/SS",
+     "values": [
+      298,
+      530
+     ]
+    }
+   ],
+   "notes": "Material not printed."
+  },
+  {
+   "code": "Hook-929",
+   "name": null,
+   "category": "Hook",
+   "page": 121,
+   "image": "p121_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      286
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      286
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      286
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      286
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Hook-934",
+   "name": null,
+   "category": "Hook",
+   "page": 121,
+   "image": "p121_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      207
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      207
+     ]
+    },
+    {
+     "finish": "Green",
+     "values": [
+      207
+     ]
+    },
+    {
+     "finish": "Matt Gold",
+     "values": [
+      207
+     ]
+    },
+    {
+     "finish": "Matt RG",
+     "values": [
+      207
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Umbrella Hook",
+   "name": null,
+   "category": "Hook",
+   "page": 121,
+   "image": "p121_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Antique/Gold",
+     "values": [
+      232
+     ]
+    },
+    {
+     "finish": "Black/TT",
+     "values": [
+      232
+     ]
+    },
+    {
+     "finish": "SS/CP",
+     "values": [
+      232
+     ]
+    },
+    {
+     "finish": "Gold/TT",
+     "values": [
+      232
+     ]
+    },
+    {
+     "finish": "RG/TT",
+     "values": [
+      232
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Honey Bee Hook",
+   "name": null,
+   "category": "Hook",
+   "page": 122,
+   "image": "p122_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      870
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      870
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      870
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      980
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      980
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Key Stand Car",
+   "name": null,
+   "category": "Hook",
+   "page": 122,
+   "image": "p122_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Black/Gold",
+     "values": [
+      563
+     ]
+    },
+    {
+     "finish": "RG/TT",
+     "values": [
+      563
+     ]
+    },
+    {
+     "finish": "Gold/TT",
+     "values": [
+      563
+     ]
+    },
+    {
+     "finish": "Wood/RG",
+     "values": [
+      563
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "Horse Key Stand",
+   "name": null,
+   "category": "Hook",
+   "page": 122,
+   "image": "p122_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Standard"
+   ],
+   "sizeUnit": null,
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      444
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      444
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      504
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      504
+     ]
+    }
+   ],
+   "notes": ""
+  }
+ ]
+}

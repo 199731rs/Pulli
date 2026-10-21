@@ -1,0 +1,66 @@
+.price-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--white);
+}
+
+.price-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.price-table th,
+.price-table td {
+  padding: 4px 6px;
+  text-align: left;
+  border-bottom: 1px solid var(--line);
+  white-space: nowrap;
+}
+
+.price-table thead th {
+  background: var(--paper);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  padding: 12px 14px;
+}
+
+.price-table tbody th {
+  font-weight: 600;
+  color: var(--navy);
+  padding: 10px 14px;
+}
+
+.price-table tbody tr:last-child > * {
+  border-bottom: 0;
+}
+
+.price-table tr.is-row {
+  background: rgba(0, 169, 157, 0.05);
+}
+
+.price-table td button {
+  border: 0;
+  background: transparent;
+  padding: 8px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-variant-numeric: tabular-nums;
+}
+
+.price-table td button:hover:not([disabled]) {
+  background: var(--stone);
+}
+
+.price-table td button.is-active {
+  background: var(--navy);
+  color: var(--white);
+}
+
+.price-table td button[disabled] {
+  color: var(--concrete);
+  cursor: default;
+}

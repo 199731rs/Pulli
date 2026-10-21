@@ -1,0 +1,2420 @@
+{
+ "pages": [
+  {
+   "page": 3,
+   "type": "divider",
+   "category": "Cabinet Handle",
+   "title": "CABINET COLLECTION",
+   "image": "p003_1.jpg"
+  },
+  {
+   "page": 4,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 5,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 6,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 7,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 8,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 9,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 10,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 11,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 12,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 13,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 14,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 15,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 16,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 17,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 18,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 19,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 20,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 21,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  },
+  {
+   "page": 22,
+   "type": "products",
+   "category": "Cabinet Handle",
+   "title": "Cabinet Handle",
+   "image": null
+  }
+ ],
+ "products": [
+  {
+   "code": "CH-103",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 4,
+   "image": "p004_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/Satin",
+     "values": [
+      347,
+      547,
+      765,
+      1000
+     ]
+    },
+    {
+     "finish": "MBN/RG",
+     "values": [
+      460,
+      745,
+      1008,
+      1305
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-108",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 4,
+   "image": "p004_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/Satin",
+     "values": [
+      342,
+      534,
+      730,
+      930
+     ]
+    },
+    {
+     "finish": "Satin/Brown",
+     "values": [
+      342,
+      534,
+      730,
+      930
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-111",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 4,
+   "image": "p004_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/Satin",
+     "values": [
+      384,
+      588,
+      853,
+      1015
+     ]
+    },
+    {
+     "finish": "MBN/RG",
+     "values": [
+      564,
+      965,
+      1288,
+      1574
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-116",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 5,
+   "image": "p005_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      246,
+      408,
+      578,
+      745
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      246,
+      408,
+      578,
+      745
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      246,
+      408,
+      578,
+      745
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-810",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 5,
+   "image": "p005_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/White",
+     "values": [
+      221,
+      383,
+      530,
+      779
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-814",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 5,
+   "image": "p005_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288",
+    "416"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black/TT",
+     "values": [
+      191,
+      330,
+      477,
+      663,
+      1118
+     ]
+    },
+    {
+     "finish": "SS",
+     "values": [
+      176,
+      294,
+      432,
+      617,
+      1015
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-816",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 6,
+   "image": "p006_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/SS",
+     "values": [
+      229,
+      383,
+      598,
+      800
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-823",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 6,
+   "image": "p006_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Knob",
+    "96",
+    "160",
+    "224",
+    "288",
+    "416"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      207,
+      236,
+      409,
+      576,
+      750,
+      1471
+     ]
+    },
+    {
+     "finish": "Satin Black",
+     "values": [
+      223,
+      265,
+      461,
+      620,
+      808,
+      1577
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-831",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 6,
+   "image": "p006_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288",
+    "416"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB",
+     "values": [
+      236,
+      352,
+      530,
+      706,
+      1265
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-1539",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 7,
+   "image": "p007_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "128",
+    "160",
+    "224",
+    "288",
+    "416"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP, Satin",
+     "values": [
+      289,
+      388,
+      485,
+      753,
+      912,
+      1325
+     ]
+    },
+    {
+     "finish": "Choco, AB",
+     "values": [
+      289,
+      388,
+      485,
+      753,
+      912,
+      1325
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-1542",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 7,
+   "image": "p007_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP, Satin, AB",
+     "values": [
+      239,
+      352,
+      509,
+      636
+     ]
+    },
+    {
+     "finish": "Black Satin",
+     "values": [
+      239,
+      352,
+      509,
+      636
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-1551",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 7,
+   "image": "p007_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Satin",
+     "values": [
+      241,
+      470,
+      641,
+      759
+     ]
+    },
+    {
+     "finish": "Choco",
+     "values": [
+      241,
+      470,
+      641,
+      759
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-1565",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 8,
+   "image": "p008_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Gold",
+     "values": [
+      270,
+      465,
+      612,
+      806
+     ]
+    },
+    {
+     "finish": "Satin",
+     "values": [
+      270,
+      465,
+      612,
+      806
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-2540",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 8,
+   "image": "p008_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/TT",
+     "values": [
+      306,
+      480,
+      726,
+      957
+     ]
+    },
+    {
+     "finish": "Black/TT",
+     "values": [
+      330,
+      523,
+      788,
+      1030
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-201",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 8,
+   "image": "p008_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Gold",
+     "values": [
+      206,
+      336,
+      478,
+      642
+     ]
+    },
+    {
+     "finish": "Choco",
+     "values": [
+      206,
+      336,
+      478,
+      642
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-251",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 9,
+   "image": "p009_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      160,
+      274,
+      396,
+      532
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      160,
+      274,
+      396,
+      532
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      160,
+      274,
+      396,
+      532
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-252",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 9,
+   "image": "p009_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      160,
+      274,
+      396,
+      532
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      160,
+      274,
+      396,
+      532
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      160,
+      274,
+      396,
+      532
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      160,
+      274,
+      396,
+      532
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-253",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 9,
+   "image": "p009_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "256",
+    "320"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      160,
+      274,
+      396,
+      532
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      160,
+      274,
+      396,
+      532
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      160,
+      274,
+      396,
+      532
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-255",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 10,
+   "image": "p010_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      134,
+      250,
+      360,
+      454
+     ]
+    },
+    {
+     "finish": "Gold",
+     "values": [
+      134,
+      250,
+      360,
+      454
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      134,
+      250,
+      360,
+      454
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-6010",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 10,
+   "image": "p010_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "Knob",
+    "Kadi",
+    "96",
+    "160",
+    "224",
+    "288",
+    "352"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Choco",
+     "values": [
+      180,
+      240,
+      238,
+      340,
+      460,
+      558,
+      750
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-6013",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 10,
+   "image": "p010_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Satin",
+     "values": [
+      228,
+      380,
+      568,
+      788
+     ]
+    },
+    {
+     "finish": "Choco",
+     "values": [
+      228,
+      380,
+      568,
+      788
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-6040",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 11,
+   "image": "p011_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288",
+    "416"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "PVD Gold",
+     "values": [
+      312,
+      499,
+      655,
+      797,
+      1432
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      312,
+      499,
+      655,
+      797,
+      1432
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-6080",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 11,
+   "image": "p011_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288",
+    "416"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "PVD Gold",
+     "values": [
+      382,
+      663,
+      898,
+      1178,
+      1948
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      382,
+      663,
+      898,
+      1178,
+      1948
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      252,
+      405,
+      578,
+      800,
+      1357
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Arrow Consil",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 11,
+   "image": "p011_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "32",
+    "96",
+    "192",
+    "256"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP, SS",
+     "values": [
+      176,
+      277,
+      598,
+      709
+     ]
+    },
+    {
+     "finish": "Black Matt",
+     "values": [
+      176,
+      277,
+      598,
+      709
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Rimzim",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 12,
+   "image": "p012_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288",
+    "416"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      290,
+      526,
+      735,
+      955,
+      1750
+     ]
+    },
+    {
+     "finish": "AB, Black",
+     "values": [
+      300,
+      546,
+      764,
+      992,
+      1842
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      430,
+      815,
+      1135,
+      1450,
+      2410
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      430,
+      815,
+      1135,
+      1450,
+      2410
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Mini",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 12,
+   "image": "p012_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "128",
+    "192",
+    "256",
+    "320",
+    "416"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "SS",
+     "values": [
+      205,
+      252,
+      347,
+      429,
+      575,
+      811
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      205,
+      252,
+      347,
+      429,
+      575,
+      811
+     ]
+    },
+    {
+     "finish": "PVD Gold",
+     "values": [
+      294,
+      384,
+      519,
+      647,
+      766,
+      1179
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      294,
+      384,
+      519,
+      647,
+      766,
+      1179
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Zen",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 12,
+   "image": "p012_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "White/RG",
+     "values": [
+      347,
+      588,
+      824,
+      1060
+     ]
+    },
+    {
+     "finish": "Choco/TT",
+     "values": [
+      347,
+      588,
+      824,
+      1060
+     ]
+    },
+    {
+     "finish": "AB/PVD Gold",
+     "values": [
+      458,
+      810,
+      1104,
+      1398
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Cela",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 13,
+   "image": "p013_1.jpg",
+   "material": "SS-304",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288",
+    "448"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      140,
+      208,
+      280,
+      360,
+      555
+     ]
+    },
+    {
+     "finish": "Satin",
+     "values": [
+      160,
+      240,
+      325,
+      412,
+      655
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      160,
+      240,
+      325,
+      412,
+      655
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-C Brook",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 13,
+   "image": "p013_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288",
+    "352"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      178,
+      274,
+      398,
+      517,
+      692
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Jado",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 13,
+   "image": "p013_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      207,
+      339,
+      472,
+      604
+     ]
+    },
+    {
+     "finish": "Matt RG",
+     "values": [
+      207,
+      339,
+      472,
+      604
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Hector",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 14,
+   "image": "p014_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "White/RG",
+     "values": [
+      342,
+      575,
+      795,
+      1015
+     ]
+    },
+    {
+     "finish": "Black/Matt Black",
+     "values": [
+      342,
+      575,
+      795,
+      1015
+     ]
+    },
+    {
+     "finish": "AB/PVD Gold",
+     "values": [
+      451,
+      795,
+      1073,
+      1354
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Vela",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 14,
+   "image": "p014_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "MBN/RG",
+     "values": [
+      359,
+      617,
+      840,
+      1105
+     ]
+    },
+    {
+     "finish": "Choco/RG",
+     "values": [
+      359,
+      617,
+      840,
+      1105
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Crown",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 14,
+   "image": "p014_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "256",
+    "320"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "AB/Gold",
+     "values": [
+      425,
+      680,
+      992,
+      1211
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      425,
+      680,
+      992,
+      1211
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Ring",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 15,
+   "image": "p015_1.jpg",
+   "material": "Aluminium + Zinc Alloy",
+   "sizes": [
+    "Knob",
+    "96",
+    "192",
+    "320",
+    "450"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Matt/PVD RG",
+     "values": [
+      466,
+      901,
+      1381,
+      2141,
+      2838
+     ]
+    },
+    {
+     "finish": "AB/PVD Gold",
+     "values": [
+      355,
+      742,
+      1067,
+      1617,
+      2131
+     ]
+    },
+    {
+     "finish": "PVD Black",
+     "values": [
+      355,
+      742,
+      1067,
+      1617,
+      2131
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-D Lady",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 15,
+   "image": "p015_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "PVD Gold",
+     "values": [
+      305,
+      530,
+      819,
+      949
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      305,
+      530,
+      819,
+      949
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-540",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 15,
+   "image": "p015_3.jpg",
+   "material": "Zinc Alloy + Wood",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288",
+    "Small Knob",
+    "Big Knob"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black/Wood",
+     "values": [
+      568,
+      868,
+      1200,
+      1592,
+      289,
+      465
+     ]
+    },
+    {
+     "finish": "Satin/Wood",
+     "values": [
+      568,
+      868,
+      1200,
+      1592,
+      289,
+      465
+     ]
+    }
+   ],
+   "notes": "Knob prices from a second table on the same block; knob photo inset is p015_4.jpg."
+  },
+  {
+   "code": "CH-575",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 16,
+   "image": "p016_1.jpg",
+   "material": "Aluminium + Wood",
+   "sizes": [
+    "Knob",
+    "128",
+    "192",
+    "288",
+    "448"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "PVD Gold/Wood",
+     "values": [
+      385,
+      878,
+      1145,
+      1882,
+      2938
+     ]
+    },
+    {
+     "finish": "PVD RG/Wood",
+     "values": [
+      385,
+      878,
+      1145,
+      1882,
+      2938
+     ]
+    },
+    {
+     "finish": "Black/Wood",
+     "values": [
+      315,
+      650,
+      838,
+      1305,
+      2125
+     ]
+    }
+   ],
+   "notes": "Knob photo inset is p016_2.jpg."
+  },
+  {
+   "code": "CH-7022",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 16,
+   "image": "p016_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black/Wood",
+     "values": [
+      437,
+      700,
+      986,
+      1264
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-4002",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 16,
+   "image": "p016_4.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "128",
+    "192",
+    "256",
+    "384"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      300,
+      448,
+      594,
+      840
+     ]
+    },
+    {
+     "finish": "SS",
+     "values": [
+      300,
+      448,
+      594,
+      840
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-3002",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 17,
+   "image": "p017_1.jpg",
+   "material": "SS-304",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "320",
+    "448",
+    "600"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Satin/Wenge",
+     "values": [
+      556,
+      675,
+      770,
+      910,
+      1124,
+      1350
+     ]
+    },
+    {
+     "finish": "Black/PVD Gold",
+     "values": [
+      620,
+      852,
+      1030,
+      1320,
+      1710,
+      2120
+     ]
+    },
+    {
+     "finish": "Black/PVD RG",
+     "values": [
+      620,
+      852,
+      1030,
+      1320,
+      1710,
+      2120
+     ]
+    },
+    {
+     "finish": "Black/PVD Black",
+     "values": [
+      620,
+      852,
+      1030,
+      1320,
+      1710,
+      2120
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-9078",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 17,
+   "image": "p017_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288",
+    "416"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "PVD Gold",
+     "values": [
+      280,
+      488,
+      633,
+      778,
+      1160
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      280,
+      488,
+      633,
+      778,
+      1160
+     ]
+    },
+    {
+     "finish": "PVD Black",
+     "values": [
+      280,
+      488,
+      633,
+      778,
+      1160
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-9091",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 17,
+   "image": "p017_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288",
+    "416"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      172,
+      275,
+      410,
+      525,
+      842
+     ]
+    },
+    {
+     "finish": "Matt Gold",
+     "values": [
+      185,
+      325,
+      482,
+      615,
+      962
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-10550",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 18,
+   "image": "p018_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "RG/Matt",
+     "values": [
+      371,
+      530,
+      689,
+      769
+     ]
+    },
+    {
+     "finish": "Gold/AB",
+     "values": [
+      371,
+      530,
+      689,
+      769
+     ]
+    },
+    {
+     "finish": "Black",
+     "values": [
+      371,
+      530,
+      689,
+      769
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-1008",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 18,
+   "image": "p018_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "PVD Black",
+     "values": [
+      310,
+      563,
+      780,
+      996
+     ]
+    },
+    {
+     "finish": "PVD Matt Gold",
+     "values": [
+      274,
+      472,
+      665,
+      872
+     ]
+    },
+    {
+     "finish": "PVD Matt RG",
+     "values": [
+      274,
+      472,
+      665,
+      872
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-1009",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 18,
+   "image": "p018_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      302,
+      444,
+      567,
+      745
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      302,
+      444,
+      567,
+      745
+     ]
+    },
+    {
+     "finish": "RVD RG",
+     "values": [
+      342,
+      517,
+      694,
+      894
+     ]
+    }
+   ],
+   "notes": "Finish printed as 'RVD RG' (likely PVD RG)."
+  },
+  {
+   "code": "CH-1010",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 19,
+   "image": "p019_1.jpg",
+   "material": "Brass",
+   "sizes": [
+    "96",
+    "160",
+    "288",
+    "450"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      868,
+      975,
+      1170,
+      1435
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      868,
+      975,
+      1170,
+      1435
+     ]
+    },
+    {
+     "finish": "RVD RG",
+     "values": [
+      1045,
+      1200,
+      1520,
+      1960
+     ]
+    }
+   ],
+   "notes": "Finish printed as 'RVD RG' (likely PVD RG)."
+  },
+  {
+   "code": "CH-1059",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 19,
+   "image": "p019_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "160",
+    "224",
+    "288",
+    "416"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "PVD Gold",
+     "values": [
+      368,
+      644,
+      951,
+      1185,
+      1643
+     ]
+    },
+    {
+     "finish": "PVD RG",
+     "values": [
+      368,
+      644,
+      951,
+      1185,
+      1643
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      249,
+      398,
+      610,
+      824,
+      1193
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-1188",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 19,
+   "image": "p019_3.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "8\"",
+    "12\"",
+    "18\"",
+    "24\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "Black",
+     "values": [
+      830,
+      1040,
+      1242,
+      1484
+     ]
+    },
+    {
+     "finish": "AB",
+     "values": [
+      830,
+      1040,
+      1242,
+      1484
+     ]
+    },
+    {
+     "finish": "RG",
+     "values": [
+      830,
+      1040,
+      1242,
+      1484
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-1100",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 20,
+   "image": "p020_1.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "2\"",
+    "12\"",
+    "18\"",
+    "24\"",
+    "30\""
+   ],
+   "sizeUnit": "inch",
+   "prices": [
+    {
+     "finish": "PVD RG/Matt",
+     "values": [
+      205,
+      1113,
+      1855,
+      2360,
+      3114
+     ]
+    },
+    {
+     "finish": "PVD Gold/Matt",
+     "values": [
+      205,
+      1113,
+      1855,
+      2360,
+      3114
+     ]
+    }
+   ],
+   "notes": "2\" size likely the knob shown in photo."
+  },
+  {
+   "code": "CH-A 36",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 20,
+   "image": "p020_2.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "96 (6\")",
+    "128 (8\")",
+    "288 (14\")",
+    "448 (21\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "RG Matt",
+     "values": [
+      517,
+      546,
+      735,
+      957
+     ]
+    },
+    {
+     "finish": "Black Matt",
+     "values": [
+      517,
+      546,
+      735,
+      957
+     ]
+    },
+    {
+     "finish": "DSS",
+     "values": [
+      517,
+      546,
+      735,
+      957
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-A 40",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 20,
+   "image": "p020_3.jpg",
+   "material": "Aluminium",
+   "sizes": [
+    "128 (9\")",
+    "288 (15\")",
+    "512 (24\")"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "Gold Matt",
+     "values": [
+      720,
+      910,
+      1280
+     ]
+    },
+    {
+     "finish": "Black Matt",
+     "values": [
+      720,
+      910,
+      1280
+     ]
+    },
+    {
+     "finish": "DSS",
+     "values": [
+      720,
+      910,
+      1280
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Civic",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 21,
+   "image": "p021_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "128",
+    "160",
+    "224"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/TT",
+     "values": [
+      133,
+      166,
+      202,
+      260
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Golden",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 21,
+   "image": "p021_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "128",
+    "160",
+    "224"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/TT",
+     "values": [
+      137,
+      186,
+      235,
+      357
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Micra-422",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 21,
+   "image": "p021_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "128",
+    "160",
+    "224"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      84,
+      116,
+      147,
+      238
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Sunny",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 22,
+   "image": "p022_1.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "128",
+    "160",
+    "224"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP",
+     "values": [
+      116,
+      164,
+      199,
+      312
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-Ziraff",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 22,
+   "image": "p022_2.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "128",
+    "160",
+    "224"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/TT",
+     "values": [
+      126,
+      179,
+      242,
+      371
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "code": "CH-004",
+   "name": null,
+   "category": "Cabinet Handle",
+   "page": 22,
+   "image": "p022_3.jpg",
+   "material": "Zinc Alloy",
+   "sizes": [
+    "96",
+    "128",
+    "160",
+    "224",
+    "288"
+   ],
+   "sizeUnit": "mm",
+   "prices": [
+    {
+     "finish": "CP/TT",
+     "values": [
+      166,
+      220,
+      286,
+      448,
+      583
+     ]
+    }
+   ],
+   "notes": ""
+  }
+ ]
+}

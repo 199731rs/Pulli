@@ -1,0 +1,147 @@
+{
+ "hardware": [
+  {
+   "slug": "cabinet-handles",
+   "name": "Cabinet Handles",
+   "blurb": "Pull handles for wardrobes, kitchens and drawers in zinc, aluminium, brass and SS.",
+   "count": 2,
+   "cover": "/img/products/p009_2.jpg"
+  },
+  {
+   "slug": "door-handles",
+   "name": "Main Door Handles",
+   "blurb": "Statement pull handles and door knobs for main and interior doors.",
+   "count": 1,
+   "cover": "/img/products/p095_2.jpg"
+  },
+  {
+   "slug": "knobs",
+   "name": "Knobs",
+   "blurb": "Drawer and cabinet knobs, from minimal rounds to sculpted designer pieces.",
+   "count": 1,
+   "cover": "/img/products/p069_1.jpg"
+  },
+  {
+   "slug": "kadi",
+   "name": "Kadi",
+   "blurb": "Drawer kadis and ring pulls with a classic touch.",
+   "count": 1,
+   "cover": "/img/products/p078_1.jpg"
+  },
+  {
+   "slug": "sliding-handles",
+   "name": "Sliding Handles",
+   "blurb": "Flush and recessed pulls for sliding wardrobes and doors.",
+   "count": 1,
+   "cover": "/img/products/p054_1.jpg"
+  },
+  {
+   "slug": "sofa-legs",
+   "name": "Sofa Legs",
+   "blurb": "Furniture legs in aluminium, SS and wood in many heights.",
+   "count": 1,
+   "cover": "/img/products/p130_3.jpg"
+  },
+  {
+   "slug": "door-accessories",
+   "name": "Door Accessories",
+   "blurb": "Door stoppers, magnets, latches, tower bolts, aldrops and more.",
+   "count": 1,
+   "cover": "/img/products/p135_1.jpg"
+  }
+ ],
+ "bath": [
+  {
+   "slug": "costa",
+   "name": "Costa",
+   "blurb": "Round, soft-edged SS 304 accessories in four finishes.",
+   "count": 2,
+   "cover": "/img/products/c006_5.jpg"
+  },
+  {
+   "slug": "rolex",
+   "name": "Rolex",
+   "blurb": "Square-profile accessories in CP and Antique.",
+   "count": 1,
+   "cover": "/img/products/c011_3.jpg"
+  },
+  {
+   "slug": "octa",
+   "name": "Octa",
+   "blurb": "Crisp geometric forms in brass and SS.",
+   "count": 1,
+   "cover": "/img/products/c012_7.jpg"
+  },
+  {
+   "slug": "racks-shelves",
+   "name": "Racks, Corners & Shelves",
+   "blurb": "Folding towel racks, glass corners and shelves.",
+   "count": 1,
+   "cover": "/img/products/c014_2.jpg"
+  },
+  {
+   "slug": "mirror-cabinets",
+   "name": "Mirror Cabinets",
+   "blurb": "SS 202 mirror cabinets with generous storage.",
+   "count": 1,
+   "cover": "/img/products/c015_1.jpg"
+  },
+  {
+   "slug": "noble-bottles",
+   "name": "Noble Liquid Bottles",
+   "blurb": "Wall-mounted soap dispensers in four finishes.",
+   "count": 1,
+   "cover": "/img/products/c016_1.jpg"
+  }
+ ],
+ "families": [
+  {
+   "slug": "chrome",
+   "name": "Chrome",
+   "swatch": "#d9dde1",
+   "count": 4
+  },
+  {
+   "slug": "steel",
+   "name": "Satin & Steel",
+   "swatch": "#b9bcbd",
+   "count": 1
+  },
+  {
+   "slug": "black",
+   "name": "Black",
+   "swatch": "#24262a",
+   "count": 10
+  },
+  {
+   "slug": "gold",
+   "name": "Gold",
+   "swatch": "#cfa84f",
+   "count": 8
+  },
+  {
+   "slug": "rose-gold",
+   "name": "Rose Gold",
+   "swatch": "#c98c74",
+   "count": 7
+  },
+  {
+   "slug": "antique",
+   "name": "Antique & Bronze",
+   "swatch": "#8a6a3c",
+   "count": 7
+  },
+  {
+   "slug": "wood",
+   "name": "Wood",
+   "swatch": "#7b5134",
+   "count": 1
+  },
+  {
+   "slug": "grey",
+   "name": "Grey",
+   "swatch": "#7d8186",
+   "count": 1
+  }
+ ]
+}

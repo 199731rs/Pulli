@@ -1,0 +1,2538 @@
+{
+ "pages": [
+  {
+   "page": 1,
+   "type": "cover",
+   "series": null,
+   "finish": null,
+   "title": "Pulli Premium Bath Collection - Product Price List 2026",
+   "note": "Front cover; lifestyle bathroom hero",
+   "image": "c001_1.jpg"
+  },
+  {
+   "page": 2,
+   "type": "other",
+   "series": null,
+   "finish": null,
+   "title": "Elegance Meets Affordability.",
+   "note": "Brand page with model photo; ISO 9001:2015 certified company and IAF badges",
+   "image": null
+  },
+  {
+   "page": 3,
+   "type": "other",
+   "series": null,
+   "finish": null,
+   "title": "Inside Story",
+   "note": "Contents grid: 01 Costa CP, 02 Costa Black Matt, 03 Costa PVD Gold, 04 Costa PVD RG, 05 Sofia CP, 06 Rolex CP, 07 Rolex Antique, 09 Octa CP, 10 Octa Black Matt, 11 Folding Rack Shelf & Corner, 12 Mirror CP, 13 Noble Liquid Bottle (numbering skips 08). Thumbnail crops c003_1..c003_12 in that order.",
+   "image": "c003_1.jpg",
+   "images": [
+    "c003_1.jpg",
+    "c003_2.jpg",
+    "c003_3.jpg",
+    "c003_4.jpg",
+    "c003_5.jpg",
+    "c003_6.jpg",
+    "c003_7.jpg",
+    "c003_8.jpg",
+    "c003_9.jpg",
+    "c003_10.jpg",
+    "c003_11.jpg",
+    "c003_12.jpg"
+   ]
+  },
+  {
+   "page": 4,
+   "type": "products",
+   "series": "Costa",
+   "finish": "CP",
+   "title": "COSTA - CP",
+   "note": "Catalogue page 01; Stainless Steel 304 badge",
+   "image": null
+  },
+  {
+   "page": 5,
+   "type": "products",
+   "series": "Costa",
+   "finish": "Black Matt",
+   "title": "COSTA - BLACK MATT",
+   "note": "Catalogue page 02; Stainless Steel 304 badge",
+   "image": null
+  },
+  {
+   "page": 6,
+   "type": "products",
+   "series": "Costa",
+   "finish": "PVD Gold",
+   "title": "COSTA - PVD GOLD",
+   "note": "Catalogue page 03; Stainless Steel 304 badge",
+   "image": null
+  },
+  {
+   "page": 7,
+   "type": "products",
+   "series": "Costa",
+   "finish": "PVD Rose Gold",
+   "title": "COSTA - PVD ROSE GOLD",
+   "note": "Catalogue page 04; Stainless Steel 304 badge",
+   "image": null
+  },
+  {
+   "page": 8,
+   "type": "products",
+   "series": "Sofia",
+   "finish": "CP",
+   "title": "SOFIA - CP",
+   "note": "Catalogue page 05; Stainless Steel 304 badge",
+   "image": null
+  },
+  {
+   "page": 9,
+   "type": "products",
+   "series": "Rolex",
+   "finish": "CP",
+   "title": "ROLEX - CP",
+   "note": "Catalogue page 06; Stainless Steel 304 badge",
+   "image": null
+  },
+  {
+   "page": 10,
+   "type": "products",
+   "series": "Rolex",
+   "finish": "Antique",
+   "title": "ROLEX - ANTIQUE",
+   "note": "Catalogue page 07; Stainless Steel 304 badge; photo 1 is an uncaptioned lifestyle shot of the Antique set (double soap dish, tumbler holder, napkin ring)",
+   "image": "c010_1.jpg"
+  },
+  {
+   "page": 11,
+   "type": "products",
+   "series": "Rolex",
+   "finish": "Antique",
+   "title": "ROLEX - ANTIQUE",
+   "note": "Catalogue page 08; Stainless Steel 304 badge",
+   "image": null
+  },
+  {
+   "page": 12,
+   "type": "products",
+   "series": "Octa",
+   "finish": "CP",
+   "title": "OCTA - CP",
+   "note": "Catalogue page 09; Brass & SS badge",
+   "image": null
+  },
+  {
+   "page": 13,
+   "type": "products",
+   "series": "Octa",
+   "finish": "Black Matt",
+   "title": "OCTA - BLACK MATT",
+   "note": "Catalogue page 10; Brass & SS badge",
+   "image": null
+  },
+  {
+   "page": 14,
+   "type": "products",
+   "series": "Folding Rack, Corner & Shelf",
+   "finish": null,
+   "title": "FOLDING RACK, CORNER & SHELF",
+   "note": "Catalogue page 11; Stainless Steel 304 badge; Lotus corner/shelf priced in a table (CP/Z-Black vs PVD)",
+   "image": null
+  },
+  {
+   "page": 15,
+   "type": "products",
+   "series": "Mirror Cabinet",
+   "finish": "CP",
+   "title": "MIRROR CABINET - CP",
+   "note": "Catalogue page 12; Stainless Steel 202 badge; each cabinet shown closed and open",
+   "image": null
+  },
+  {
+   "page": 16,
+   "type": "products",
+   "series": "Noble Liquid Bottles",
+   "finish": null,
+   "title": "NOBLE LIQUID BOTTLES",
+   "note": "Catalogue page 13; Stainless Steel 304 badge",
+   "image": null
+  },
+  {
+   "page": 17,
+   "type": "products",
+   "series": "Glass & Other Accessories",
+   "finish": null,
+   "title": "GLASS & OTHER ACCESSORIES",
+   "note": "Catalogue page 14; no material badge; photo 1 is an uncaptioned hero shot of a frosted glass soap dispenser",
+   "image": "c017_1.jpg"
+  },
+  {
+   "page": 18,
+   "type": "products",
+   "series": "Glass & Other Accessories",
+   "finish": null,
+   "title": "GLASS & OTHER ACCESSORIES",
+   "note": "Catalogue page 15; no material badge; spare glass tumblers, LSD bottles and pumps",
+   "image": null
+  },
+  {
+   "page": 19,
+   "type": "other",
+   "series": null,
+   "finish": null,
+   "title": "Care Instructions",
+   "note": "Use cotton cloth to clean. Do not use: thinner, acid, toilet cleaner, masking tape, detergent powder. Note: if you do not follow above instructions company will not be responsible for the product damage.",
+   "image": null
+  },
+  {
+   "page": 20,
+   "type": "other",
+   "series": null,
+   "finish": null,
+   "title": "Back Cover",
+   "note": "Marketed by Global Marketing, Delhi - 110006 - India; pullihardware@gmail.com; www.pullihardware.com; Make in India logo",
+   "image": "c020_1.jpg"
+  }
+ ],
+ "products": [
+  {
+   "code": "CO-002",
+   "name": "Towel Rod",
+   "series": "Costa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 4,
+   "image": "c004_1.jpg",
+   "mrp": [
+    {
+     "variant": "18\"",
+     "price": 1137
+    },
+    {
+     "variant": "24\"",
+     "price": 1189
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CO-003",
+   "name": "Robe Hook",
+   "series": "Costa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 4,
+   "image": "c004_2.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 528
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CO-004",
+   "name": "Tumbler",
+   "series": "Costa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 4,
+   "image": "c004_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 882
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CO-005",
+   "name": "Soap Dish",
+   "series": "Costa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 4,
+   "image": "c004_4.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 699
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CO-006",
+   "name": "Napkin Ring",
+   "series": "Costa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 4,
+   "image": "c004_5.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 725
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CO-008",
+   "name": "Towel Rack",
+   "series": "Costa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 4,
+   "image": "c004_6.jpg",
+   "mrp": [
+    {
+     "variant": "18\" With Hook",
+     "price": 2651
+    },
+    {
+     "variant": "24\" With Hook",
+     "price": 2823
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CO-009",
+   "name": "Paper Holder",
+   "series": "Costa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 4,
+   "image": "c004_7.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1057
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CO-010",
+   "name": "Liquid Soap Dispenser",
+   "series": "Costa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 4,
+   "image": "c004_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1046
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CO-011",
+   "name": "Soap Dish + Tumbler",
+   "series": "Costa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 4,
+   "image": "c004_9.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1376
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CO-013",
+   "name": "Double Soap Dish",
+   "series": "Costa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 4,
+   "image": "c004_10.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1214
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COBM-002",
+   "name": "Towel Rod",
+   "series": "Costa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 5,
+   "image": "c005_1.jpg",
+   "mrp": [
+    {
+     "variant": "18\"",
+     "price": 1194
+    },
+    {
+     "variant": "24\"",
+     "price": 1248
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COBM-003",
+   "name": "Robe Hook",
+   "series": "Costa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 5,
+   "image": "c005_2.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 554
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COBM-004",
+   "name": "Tumbler",
+   "series": "Costa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 5,
+   "image": "c005_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 926
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COBM-005",
+   "name": "Soap Dish",
+   "series": "Costa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 5,
+   "image": "c005_4.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 734
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COBM-006",
+   "name": "Napkin Ring",
+   "series": "Costa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 5,
+   "image": "c005_5.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 761
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COBM-008",
+   "name": "Towel Rack",
+   "series": "Costa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 5,
+   "image": "c005_6.jpg",
+   "mrp": [
+    {
+     "variant": "18\"",
+     "price": 2484
+    },
+    {
+     "variant": "24\"",
+     "price": 2665
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "No hooks shown in photo; caption gives plain 18\"/24\""
+  },
+  {
+   "code": "COBM-009",
+   "name": "Paper Holder",
+   "series": "Costa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 5,
+   "image": "c005_7.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1110
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COBM-010",
+   "name": "Liquid Soap Dispenser",
+   "series": "Costa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 5,
+   "image": "c005_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1098
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COBM-011",
+   "name": "Soap Dish + Tumbler",
+   "series": "Costa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 5,
+   "image": "c005_9.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1445
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COBM-013",
+   "name": "Double Soap Dish",
+   "series": "Costa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 5,
+   "image": "c005_10.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1275
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COG-002",
+   "name": "Towel Rod",
+   "series": "Costa",
+   "finish": "PVD Gold",
+   "category": "Bath Accessories",
+   "page": 6,
+   "image": "c006_1.jpg",
+   "mrp": [
+    {
+     "variant": "18\"",
+     "price": 1819
+    },
+    {
+     "variant": "24\"",
+     "price": 1881
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COG-003",
+   "name": "Robe Hook",
+   "series": "Costa",
+   "finish": "PVD Gold",
+   "category": "Bath Accessories",
+   "page": 6,
+   "image": "c006_2.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 747
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COG-004",
+   "name": "Tumbler",
+   "series": "Costa",
+   "finish": "PVD Gold",
+   "category": "Bath Accessories",
+   "page": 6,
+   "image": "c006_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1558
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COG-005",
+   "name": "Soap Dish",
+   "series": "Costa",
+   "finish": "PVD Gold",
+   "category": "Bath Accessories",
+   "page": 6,
+   "image": "c006_4.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1143
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COG-006",
+   "name": "Napkin Ring",
+   "series": "Costa",
+   "finish": "PVD Gold",
+   "category": "Bath Accessories",
+   "page": 6,
+   "image": "c006_5.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1070
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COG-008",
+   "name": "Towel Rack",
+   "series": "Costa",
+   "finish": "PVD Gold",
+   "category": "Bath Accessories",
+   "page": 6,
+   "image": "c006_6.jpg",
+   "mrp": [
+    {
+     "variant": "18\" With Hook",
+     "price": 4772
+    },
+    {
+     "variant": "24\" With Hook",
+     "price": 5019
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COG-009",
+   "name": "Paper Holder",
+   "series": "Costa",
+   "finish": "PVD Gold",
+   "category": "Bath Accessories",
+   "page": 6,
+   "image": "c006_7.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1873
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COG-010",
+   "name": "Liquid Soap Dispenser",
+   "series": "Costa",
+   "finish": "PVD Gold",
+   "category": "Bath Accessories",
+   "page": 6,
+   "image": "c006_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1628
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COG-011",
+   "name": "Soap Dish + Tumbler",
+   "series": "Costa",
+   "finish": "PVD Gold",
+   "category": "Bath Accessories",
+   "page": 6,
+   "image": "c006_9.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 2450
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "COG-013",
+   "name": "Double Soap Dish",
+   "series": "Costa",
+   "finish": "PVD Gold",
+   "category": "Bath Accessories",
+   "page": 6,
+   "image": "c006_10.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 2053
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CORG-002",
+   "name": "Towel Rod",
+   "series": "Costa",
+   "finish": "PVD Rose Gold",
+   "category": "Bath Accessories",
+   "page": 7,
+   "image": "c007_1.jpg",
+   "mrp": [
+    {
+     "variant": "18\"",
+     "price": 1819
+    },
+    {
+     "variant": "24\"",
+     "price": 1881
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CORG-003",
+   "name": "Robe Hook",
+   "series": "Costa",
+   "finish": "PVD Rose Gold",
+   "category": "Bath Accessories",
+   "page": 7,
+   "image": "c007_2.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 747
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CORG-004",
+   "name": "Tumbler",
+   "series": "Costa",
+   "finish": "PVD Rose Gold",
+   "category": "Bath Accessories",
+   "page": 7,
+   "image": "c007_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1558
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CORG-005",
+   "name": "Soap Dish",
+   "series": "Costa",
+   "finish": "PVD Rose Gold",
+   "category": "Bath Accessories",
+   "page": 7,
+   "image": "c007_4.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1143
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CORG-006",
+   "name": "Napkin Ring",
+   "series": "Costa",
+   "finish": "PVD Rose Gold",
+   "category": "Bath Accessories",
+   "page": 7,
+   "image": "c007_5.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1070
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CORG-008",
+   "name": "Towel Rack",
+   "series": "Costa",
+   "finish": "PVD Rose Gold",
+   "category": "Bath Accessories",
+   "page": 7,
+   "image": "c007_6.jpg",
+   "mrp": [
+    {
+     "variant": "18\" With Hook",
+     "price": 4772
+    },
+    {
+     "variant": "24\" With Hook",
+     "price": 5019
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CORG-009",
+   "name": "Paper Holder",
+   "series": "Costa",
+   "finish": "PVD Rose Gold",
+   "category": "Bath Accessories",
+   "page": 7,
+   "image": "c007_7.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1873
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CORG-010",
+   "name": "Liquid Soap Dispenser",
+   "series": "Costa",
+   "finish": "PVD Rose Gold",
+   "category": "Bath Accessories",
+   "page": 7,
+   "image": "c007_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1628
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CORG-011",
+   "name": "Soap Dish + Tumbler",
+   "series": "Costa",
+   "finish": "PVD Rose Gold",
+   "category": "Bath Accessories",
+   "page": 7,
+   "image": "c007_9.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 2450
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "CORG-013",
+   "name": "Double Soap Dish",
+   "series": "Costa",
+   "finish": "PVD Rose Gold",
+   "category": "Bath Accessories",
+   "page": 7,
+   "image": "c007_10.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 2053
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "SO-002",
+   "name": "Towel Rod",
+   "series": "Sofia",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 8,
+   "image": "c008_1.jpg",
+   "mrp": [
+    {
+     "variant": "24\"",
+     "price": 1281
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "SO-003",
+   "name": "Robe Hook",
+   "series": "Sofia",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 8,
+   "image": "c008_2.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 658
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "SO-004",
+   "name": "Tumbler",
+   "series": "Sofia",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 8,
+   "image": "c008_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1161
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "SO-005",
+   "name": "Soap Dish",
+   "series": "Sofia",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 8,
+   "image": "c008_4.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 850
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "SO-006",
+   "name": "Napkin Ring",
+   "series": "Sofia",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 8,
+   "image": "c008_5.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 801
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "SO-008",
+   "name": "Towel Rack",
+   "series": "Sofia",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 8,
+   "image": "c008_6.jpg",
+   "mrp": [
+    {
+     "variant": "24\" With Hook",
+     "price": 3147
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "SO-009",
+   "name": "Paper Holder",
+   "series": "Sofia",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 8,
+   "image": "c008_7.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1105
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "SO-010",
+   "name": "Liquid Soap Dispenser",
+   "series": "Sofia",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 8,
+   "image": "c008_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1402
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "SO-011",
+   "name": "Soap Dish + Tumbler",
+   "series": "Sofia",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 8,
+   "image": "c008_9.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1680
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "SO-013",
+   "name": "Double Soap Dish",
+   "series": "Sofia",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 8,
+   "image": "c008_10.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1387
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "RO-008",
+   "name": "Towel Rack",
+   "series": "Rolex",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 9,
+   "image": "c009_1.jpg",
+   "mrp": [
+    {
+     "variant": "18\"",
+     "price": 3225
+    },
+    {
+     "variant": "24\"",
+     "price": 3391
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "RO-002",
+   "name": "Towel Rod",
+   "series": "Rolex",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 9,
+   "image": "c009_2.jpg",
+   "mrp": [
+    {
+     "variant": "18\"",
+     "price": 1193
+    },
+    {
+     "variant": "24\"",
+     "price": 1229
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "RO-003",
+   "name": "Robe Hook",
+   "series": "Rolex",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 9,
+   "image": "c009_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 602
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "RO-004",
+   "name": "Tumbler",
+   "series": "Rolex",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 9,
+   "image": "c009_4.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1040
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "RO-005",
+   "name": "Soap Dish",
+   "series": "Rolex",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 9,
+   "image": "c009_5.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 754
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "RO-006",
+   "name": "Napkin Ring",
+   "series": "Rolex",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 9,
+   "image": "c009_6.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 933
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "RO-009",
+   "name": "Paper Holder",
+   "series": "Rolex",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 9,
+   "image": "c009_7.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1005
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "RO-010",
+   "name": "Liquid Soap Dispenser",
+   "series": "Rolex",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 9,
+   "image": "c009_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1218
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "RO-011",
+   "name": "Soap Dish + Tumbler",
+   "series": "Rolex",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 9,
+   "image": "c009_9.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1525
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "RO-012",
+   "name": "Soap Dish Glass",
+   "series": "Rolex",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 9,
+   "image": "c009_10.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1040
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "Catalogue caption misspelt as \"Sopa Dish Glass\""
+  },
+  {
+   "code": "RO-013",
+   "name": "Double Soap Dish",
+   "series": "Rolex",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 9,
+   "image": "c009_11.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1257
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "ROAB-002",
+   "name": "Towel Rod",
+   "series": "Rolex",
+   "finish": "Antique",
+   "category": "Bath Accessories",
+   "page": 10,
+   "image": "c010_2.jpg",
+   "mrp": [
+    {
+     "variant": "24\"",
+     "price": 1328
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "ROAB-003",
+   "name": "Robe Hook",
+   "series": "Rolex",
+   "finish": "Antique",
+   "category": "Bath Accessories",
+   "page": 10,
+   "image": "c010_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 651
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "ROAB-04",
+   "name": "Tumbler Holder",
+   "series": "Rolex",
+   "finish": "Antique",
+   "category": "Bath Accessories",
+   "page": 11,
+   "image": "c011_1.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1124
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "Code printed as \"ROAB-04\" (likely ROAB-004 by series pattern)"
+  },
+  {
+   "code": "ROAB-005",
+   "name": "Soap Dish",
+   "series": "Rolex",
+   "finish": "Antique",
+   "category": "Bath Accessories",
+   "page": 11,
+   "image": "c011_2.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 815
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "Caption printed in caps \"SOAP DISH\""
+  },
+  {
+   "code": "ROAB-006",
+   "name": "Napkin Ring",
+   "series": "Rolex",
+   "finish": "Antique",
+   "category": "Bath Accessories",
+   "page": 11,
+   "image": "c011_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1008
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "ROAB-008",
+   "name": "Towel Rack",
+   "series": "Rolex",
+   "finish": "Antique",
+   "category": "Bath Accessories",
+   "page": 11,
+   "image": "c011_4.jpg",
+   "mrp": [
+    {
+     "variant": "24\"",
+     "price": 3663
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "ROAB-009",
+   "name": "Paper Holder",
+   "series": "Rolex",
+   "finish": "Antique",
+   "category": "Bath Accessories",
+   "page": 11,
+   "image": "c011_5.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1086
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "ROAB-010",
+   "name": "Liquid Soap Dispenser",
+   "series": "Rolex",
+   "finish": "Antique",
+   "category": "Bath Accessories",
+   "page": 11,
+   "image": "c011_6.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1316
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "ROAB-011",
+   "name": "Soap Dish + Tumbler",
+   "series": "Rolex",
+   "finish": "Antique",
+   "category": "Bath Accessories",
+   "page": 11,
+   "image": "c011_7.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1647
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "ROAB-012",
+   "name": "Soap Dish Glass",
+   "series": "Rolex",
+   "finish": "Antique",
+   "category": "Bath Accessories",
+   "page": 11,
+   "image": "c011_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1124
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "ROAB-013",
+   "name": "Double Soap Dish",
+   "series": "Rolex",
+   "finish": "Antique",
+   "category": "Bath Accessories",
+   "page": 11,
+   "image": "c011_9.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1358
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "Catalogue caption misspelt as \"Double Sopa Dish\""
+  },
+  {
+   "code": "OC-008",
+   "name": "Towel Rack",
+   "series": "Octa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 12,
+   "image": "c012_1.jpg",
+   "mrp": [
+    {
+     "variant": "24\"",
+     "price": 5311
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OC-002",
+   "name": "Towel Rod",
+   "series": "Octa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 12,
+   "image": "c012_2.jpg",
+   "mrp": [
+    {
+     "variant": "24\"",
+     "price": 1877
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OC-003",
+   "name": "Robe Hook",
+   "series": "Octa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 12,
+   "image": "c012_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 715
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OC-004",
+   "name": "Tumbler",
+   "series": "Octa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 12,
+   "image": "c012_4.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1149
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OC-005",
+   "name": "Soap Dish",
+   "series": "Octa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 12,
+   "image": "c012_5.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 863
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OC-006",
+   "name": "Napkin Ring",
+   "series": "Octa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 12,
+   "image": "c012_6.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1140
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OC-009",
+   "name": "Paper Holder",
+   "series": "Octa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 12,
+   "image": "c012_7.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1059
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OC-010",
+   "name": "Liquid Soap Dispenser",
+   "series": "Octa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 12,
+   "image": "c012_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1327
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OC-011",
+   "name": "Soap Dish + Tumbler",
+   "series": "Octa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 12,
+   "image": "c012_9.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1634
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OC-012",
+   "name": "Soap Dish Glass",
+   "series": "Octa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 12,
+   "image": "c012_10.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1149
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": "Catalogue caption misspelt as \"Sopa Dish Glass\""
+  },
+  {
+   "code": "OC-013",
+   "name": "Double Soap Dish",
+   "series": "Octa",
+   "finish": "CP",
+   "category": "Bath Accessories",
+   "page": 12,
+   "image": "c012_11.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1366
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OCBM-008",
+   "name": "Towel Rack",
+   "series": "Octa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 13,
+   "image": "c013_1.jpg",
+   "mrp": [
+    {
+     "variant": "24\"",
+     "price": 5577
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OCBM-002",
+   "name": "Towel Rod",
+   "series": "Octa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 13,
+   "image": "c013_2.jpg",
+   "mrp": [
+    {
+     "variant": "24\"",
+     "price": 1971
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OCBM-003",
+   "name": "Robe Hook",
+   "series": "Octa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 13,
+   "image": "c013_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 751
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OCBM-004",
+   "name": "Tumbler",
+   "series": "Octa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 13,
+   "image": "c013_4.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1206
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OCBM-005",
+   "name": "Soap Dish",
+   "series": "Octa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 13,
+   "image": "c013_5.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 906
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OCBM-006",
+   "name": "Napkin Ring",
+   "series": "Octa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 13,
+   "image": "c013_6.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1197
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OCBM-009",
+   "name": "Paper Holder",
+   "series": "Octa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 13,
+   "image": "c013_7.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1112
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OCBM-010",
+   "name": "Liquid Soap Dispenser",
+   "series": "Octa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 13,
+   "image": "c013_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1393
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OCBM-011",
+   "name": "Soap Dish + Tumbler",
+   "series": "Octa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 13,
+   "image": "c013_9.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1716
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OCBM-012",
+   "name": "Soap Dish Glass",
+   "series": "Octa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 13,
+   "image": "c013_10.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1206
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": "Catalogue caption misspelt as \"Sopa Dish Glass\""
+  },
+  {
+   "code": "OCBM-013",
+   "name": "Double Soap Dish",
+   "series": "Octa",
+   "finish": "Black Matt",
+   "category": "Bath Accessories",
+   "page": 13,
+   "image": "c013_11.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1434
+    }
+   ],
+   "material": "Brass & SS",
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "RFR-021",
+   "name": "Folding Towel Rack (Round)",
+   "series": "Folding Rack",
+   "finish": "CP",
+   "category": "Racks, Corners & Shelves",
+   "page": 14,
+   "image": "c014_1.jpg",
+   "mrp": [
+    {
+     "variant": "24\" With Hook",
+     "price": 4250
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "Finish not stated on caption; photo appears CP/SS"
+  },
+  {
+   "code": null,
+   "name": "Lotus - Round Corner",
+   "series": "Lotus",
+   "finish": "CP, Z-Black, PVD Gold, PVD Rose Gold",
+   "category": "Racks, Corners & Shelves",
+   "page": 14,
+   "image": "c014_2.jpg",
+   "mrp": [
+    {
+     "variant": "8\" x 8\" (CP, Z-Black)",
+     "price": 1180
+    },
+    {
+     "variant": "8\" x 8\" (PVD)",
+     "price": 1695
+    },
+    {
+     "variant": "12\" x 12\" (CP, Z-Black)",
+     "price": 1485
+    },
+    {
+     "variant": "12\" x 12\" (PVD)",
+     "price": 2155
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": [
+    "8\" x 8\"",
+    "12\" x 12\""
+   ],
+   "notes": "No product code printed; glass corner shelf"
+  },
+  {
+   "code": null,
+   "name": "Lotus - Square Shelf",
+   "series": "Lotus",
+   "finish": "CP, Z-Black, PVD Gold, PVD Rose Gold",
+   "category": "Racks, Corners & Shelves",
+   "page": 14,
+   "image": "c014_3.jpg",
+   "mrp": [
+    {
+     "variant": "12\" x 6\" (CP, Z-Black)",
+     "price": 1290
+    },
+    {
+     "variant": "12\" x 6\" (PVD)",
+     "price": 1870
+    },
+    {
+     "variant": "18\" x 6\" (CP, Z-Black)",
+     "price": 1520
+    },
+    {
+     "variant": "18\" x 6\" (PVD)",
+     "price": 2375
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": [
+    "12\" x 6\"",
+    "18\" x 6\""
+   ],
+   "notes": "No product code printed; glass shelf"
+  },
+  {
+   "code": null,
+   "name": "Mirror Cabinet Big",
+   "series": "Mirror Cabinet",
+   "finish": "CP",
+   "category": "Mirror Cabinets",
+   "page": 15,
+   "image": "c015_1.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 7567
+    }
+   ],
+   "material": "Stainless Steel 202",
+   "sizes": [
+    "40x12x60 CM (16\"x24\")"
+   ],
+   "notes": "No product code printed; size 40x12x60 CM (16\"x24\"); photo 1 closed, photo 2 open",
+   "images": [
+    "c015_1.jpg",
+    "c015_2.jpg"
+   ]
+  },
+  {
+   "code": null,
+   "name": "Mirror Cabinet Medium",
+   "series": "Mirror Cabinet",
+   "finish": "CP",
+   "category": "Mirror Cabinets",
+   "page": 15,
+   "image": "c015_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 5957
+    }
+   ],
+   "material": "Stainless Steel 202",
+   "sizes": [
+    "35x12x50 CM (14\"x20\")"
+   ],
+   "notes": "No product code printed; size 35x12x50 CM (14\"x20\"); photo 3 closed, photo 4 open",
+   "images": [
+    "c015_3.jpg",
+    "c015_4.jpg"
+   ]
+  },
+  {
+   "code": null,
+   "name": "Mirror Cabinet Small",
+   "series": "Mirror Cabinet",
+   "finish": "CP",
+   "category": "Mirror Cabinets",
+   "page": 15,
+   "image": "c015_5.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 4830
+    }
+   ],
+   "material": "Stainless Steel 202",
+   "sizes": [
+    "30x12x40 CM (12\"x16\")"
+   ],
+   "notes": "No product code printed; size 30x12x40 CM (12\"x16\"); photo 5 closed, photo 6 open",
+   "images": [
+    "c015_5.jpg",
+    "c015_6.jpg"
+   ]
+  },
+  {
+   "code": "NLR-001",
+   "name": "Liquid Soap Dispenser",
+   "series": "Noble Liquid Bottles",
+   "finish": "PVD Rose Gold",
+   "category": "Liquid Soap Dispensers",
+   "page": 16,
+   "image": "c016_1.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1725
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "Round body"
+  },
+  {
+   "code": "NLR-002",
+   "name": "Liquid Soap Dispenser",
+   "series": "Noble Liquid Bottles",
+   "finish": "PVD Rose Gold",
+   "category": "Liquid Soap Dispensers",
+   "page": 16,
+   "image": "c016_2.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1840
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "Square body"
+  },
+  {
+   "code": "NLR-001",
+   "name": "Liquid Soap Dispenser",
+   "series": "Noble Liquid Bottles",
+   "finish": "PVD Gold",
+   "category": "Liquid Soap Dispensers",
+   "page": 16,
+   "image": "c016_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1725
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "Round body"
+  },
+  {
+   "code": "NLR-002",
+   "name": "Liquid Soap Dispenser",
+   "series": "Noble Liquid Bottles",
+   "finish": "PVD Gold",
+   "category": "Liquid Soap Dispensers",
+   "page": 16,
+   "image": "c016_4.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1840
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "Square body"
+  },
+  {
+   "code": "NLR-001",
+   "name": "Liquid Soap Dispenser",
+   "series": "Noble Liquid Bottles",
+   "finish": "Black Matt",
+   "category": "Liquid Soap Dispensers",
+   "page": 16,
+   "image": "c016_5.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1227
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "Round body"
+  },
+  {
+   "code": "NLR-002",
+   "name": "Liquid Soap Dispenser",
+   "series": "Noble Liquid Bottles",
+   "finish": "Black Matt",
+   "category": "Liquid Soap Dispensers",
+   "page": 16,
+   "image": "c016_6.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1342
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "Square body"
+  },
+  {
+   "code": "NLR-001",
+   "name": "Liquid Soap Dispenser",
+   "series": "Noble Liquid Bottles",
+   "finish": "CP",
+   "category": "Liquid Soap Dispensers",
+   "page": 16,
+   "image": "c016_7.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1150
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "Round body"
+  },
+  {
+   "code": "NLR-002",
+   "name": "Liquid Soap Dispenser",
+   "series": "Noble Liquid Bottles",
+   "finish": "CP",
+   "category": "Liquid Soap Dispensers",
+   "page": 16,
+   "image": "c016_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1265
+    }
+   ],
+   "material": "Stainless Steel 304",
+   "sizes": null,
+   "notes": "Square body"
+  },
+  {
+   "code": "OS-002",
+   "name": "Oval Glass Soap Dish",
+   "series": "Glass & Other Accessories",
+   "finish": null,
+   "category": "Glass & Other Accessories",
+   "page": 17,
+   "image": "c017_2.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 216
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": "Same code OS-002 printed for two different items on this page (verified at 300 dpi)"
+  },
+  {
+   "code": "OS-002",
+   "name": "Round Corner Rectangle Glass Soap Dish",
+   "series": "Glass & Other Accessories",
+   "finish": null,
+   "category": "Glass & Other Accessories",
+   "page": 17,
+   "image": "c017_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 216
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": "Same code OS-002 printed for two different items on this page (verified at 300 dpi)"
+  },
+  {
+   "code": "OS-011",
+   "name": "Square Glass Tumbler",
+   "series": "Glass & Other Accessories",
+   "finish": null,
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_1.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 260
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OS-013",
+   "name": "UPC Round Glass Tumbler",
+   "series": "Glass & Other Accessories",
+   "finish": null,
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_2.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 345
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OS-014-CP",
+   "name": "UPC Round Glass Tumbler",
+   "series": "Glass & Other Accessories",
+   "finish": "CP",
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 175
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": "Photo shows a metal (CP) tumbler; same photo also covers OS-015-PVD"
+  },
+  {
+   "code": "OS-015-PVD",
+   "name": "UPC Round Glass Tumbler",
+   "series": "Glass & Other Accessories",
+   "finish": "PVD",
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_3.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 450
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": "Shares photo with OS-014-CP"
+  },
+  {
+   "code": "OS-017",
+   "name": "Oval Glass Tumbler",
+   "series": "Glass & Other Accessories",
+   "finish": null,
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_4.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 345
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OS-021-CP",
+   "name": "Square LSD Bottle with ABS Pump",
+   "series": "Glass & Other Accessories",
+   "finish": "CP",
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_5.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 390
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": "LSD = liquid soap dispenser"
+  },
+  {
+   "code": "OS-022-PVD",
+   "name": "Square LSD Bottle with ABS Pump",
+   "series": "Glass & Other Accessories",
+   "finish": "PVD",
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_5.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 476
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": "Shares photo with OS-021-CP"
+  },
+  {
+   "code": "OS-023-CP",
+   "name": "Round LSD Bottle with ABS Pump",
+   "series": "Glass & Other Accessories",
+   "finish": "CP",
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_6.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 345
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": ""
+  },
+  {
+   "code": "OS-024-PVD",
+   "name": "Round LSD Bottle with ABS Pump",
+   "series": "Glass & Other Accessories",
+   "finish": "PVD",
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_6.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 433
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": "Shares photo with OS-023-CP"
+  },
+  {
+   "code": "OS-045-CP",
+   "name": "Oval LSD Plate with Pump",
+   "series": "Glass & Other Accessories",
+   "finish": "CP",
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_7.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 433
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": "Caption: \"OS-045-CP (SS)\""
+  },
+  {
+   "code": "OS-053",
+   "name": "ABS LSD Pump (Round Bottle)",
+   "series": "Glass & Other Accessories",
+   "finish": "CP",
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 133
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": "Caption: \"OS-053-(Ro. Bottle) CP\""
+  },
+  {
+   "code": "OS-054",
+   "name": "ABS LSD Pump (Round Bottle)",
+   "series": "Glass & Other Accessories",
+   "finish": "PVD",
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 216
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": "Caption: \"OS-054-(Ro. Bottle) PVD\""
+  },
+  {
+   "code": "OS-055",
+   "name": "ABS LSD Pump (Square Bottle)",
+   "series": "Glass & Other Accessories",
+   "finish": "CP",
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 133
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": "Caption: \"OS-055-(Sq. Bottle) CP\""
+  },
+  {
+   "code": "OS-056",
+   "name": "ABS LSD Pump (Square Bottle)",
+   "series": "Glass & Other Accessories",
+   "finish": "PVD",
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_8.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 216
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": "Caption: \"OS-056-(Sq. Bottle) PVD\""
+  },
+  {
+   "code": "OL-016",
+   "name": "Toilet Brush Holder",
+   "series": "Glass & Other Accessories",
+   "finish": null,
+   "category": "Glass & Other Accessories",
+   "page": 18,
+   "image": "c018_9.jpg",
+   "mrp": [
+    {
+     "variant": null,
+     "price": 1854
+    }
+   ],
+   "material": null,
+   "sizes": null,
+   "notes": ""
+  }
+ ]
+}

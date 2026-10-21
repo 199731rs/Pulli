@@ -1,0 +1,32 @@
+# Dependencies (recreate with: npm install)
+node_modules/
+
+# Build output (recreate with: npm run build)
+dist/
+
+# Python cache from scripts/build_data.py
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+npm-debug.log*
+
+# Secrets / local env
+.env
+.env.*
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Old static HTML draft at the repo root (reference only, replaced by pulli-web/).
+# Leading slash = root only, so pulli-web/index.html is NOT ignored.
+/index.html
+/assets/
+
+# NOTE: do NOT ignore pulli-web/public/catalogues/*.pdf
+# Those are the files behind the "Download catalogue" buttons.

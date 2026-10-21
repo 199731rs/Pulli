@@ -1,0 +1,266 @@
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(246, 245, 242, 0.86);
+  backdrop-filter: saturate(1.4) blur(14px);
+  -webkit-backdrop-filter: saturate(1.4) blur(14px);
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.site-header.is-scrolled {
+  border-color: var(--line);
+  background: rgba(255, 255, 255, 0.92);
+}
+
+.header-bar {
+  height: var(--header-h);
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
+
+.header-logo img {
+  height: 46px;
+  width: auto;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex: 1;
+}
+
+.nav-link {
+  background: none;
+  border: 0;
+  padding: 10px 14px;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--ink);
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: var(--navy);
+  background: var(--stone);
+}
+
+.header-search {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0 14px;
+  height: 42px;
+  width: min(270px, 100%);
+  color: var(--muted);
+}
+
+.header-search:focus-within {
+  border-color: var(--teal);
+}
+
+.header-search input {
+  border: 0;
+  outline: none;
+  background: transparent;
+  width: 100%;
+  font-size: 13px;
+  color: var(--ink);
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.enquiry-btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 42px;
+  padding: 0 16px;
+  border-radius: 999px;
+  border: 0;
+  background: var(--navy);
+  color: var(--white);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.enquiry-btn:hover {
+  background: var(--teal-dark);
+}
+
+.enquiry-count {
+  min-width: 22px;
+  height: 22px;
+  border-radius: 999px;
+  background: var(--teal);
+  font-size: 12px;
+  display: grid;
+  place-items: center;
+  padding: 0 6px;
+}
+
+.menu-btn {
+  display: none;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  background: var(--white);
+  place-items: center;
+  cursor: pointer;
+}
+
+/* mega menu */
+.mega {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
+  background: var(--white);
+  border-bottom: 1px solid var(--line);
+  box-shadow: 0 30px 60px rgba(8, 42, 80, 0.12);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-6px);
+  transition: opacity 0.2s, transform 0.2s, visibility 0.2s;
+}
+
+.mega.is-open {
+  opacity: 1;
+  visibility: visible;
+  transform: none;
+}
+
+.mega-inner {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 32px;
+  padding-block: 28px 32px;
+}
+
+.mega-intro {
+  display: grid;
+  align-content: start;
+  gap: 18px;
+}
+
+.mega-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 8px;
+}
+
+.mega-item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 8px;
+  border-radius: 12px;
+  transition: background 0.2s;
+}
+
+.mega-item:hover {
+  background: var(--paper);
+}
+
+.mega-item img {
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: 10px;
+  background: var(--stone);
+}
+
+.mega-item strong {
+  display: block;
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--navy);
+}
+
+.mega-item small {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+@media (max-width: 1080px) {
+  .header-search {
+    display: none;
+  }
+}
+
+@media (max-width: 860px) {
+  .mega {
+    display: none;
+  }
+
+  .menu-btn {
+    display: grid;
+  }
+
+  .header-bar {
+    justify-content: space-between;
+  }
+
+  .header-nav {
+    position: absolute;
+    top: var(--header-h);
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 2px;
+    padding: 12px 20px 24px;
+    background: var(--white);
+    border-bottom: 1px solid var(--line);
+    box-shadow: 0 30px 60px rgba(8, 42, 80, 0.12);
+    display: none;
+  }
+
+  .header-nav.is-open {
+    display: flex;
+  }
+
+  .nav-link {
+    text-align: left;
+    font-size: 16px;
+    padding: 14px 12px;
+    border-radius: 10px;
+  }
+
+  .header-search {
+    display: flex;
+    width: 100%;
+    margin: 10px 0 0;
+    height: 48px;
+  }
+
+  .header-logo img {
+    height: 40px;
+  }
+}
+
+@media (max-width: 420px) {
+  .enquiry-label {
+    display: none;
+  }
+}
